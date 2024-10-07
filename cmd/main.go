@@ -13,7 +13,7 @@ func main() {
 	dora := crawler.NewDoraemonGadgetsCrawler()
 
 	// call function to scrape doraemon gadgets and output in json format
-	err := dora.ScrapeGadgetListFromAtoZ()
+	err := dora.ScapeGadgetListFromAtoZ()
 	if err != nil {
 		utils.Log.WithError(err)
 	}

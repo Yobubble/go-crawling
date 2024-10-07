@@ -9,10 +9,10 @@ import (
 	"Github.com/Yobubble/go-crawling/pkg/entities"
 )
 
-func JsonSerialize(data interface{}, letter rune, targetPath string) {
-	fileName := filepath.Join(targetPath, fmt.Sprintf("%c.json", letter))
+func JsonSerialize(data interface{}, fileName string, targetPath string) {
+	fullFileName := filepath.Join(targetPath, fmt.Sprintf("%s.json", fileName))
 
-	file, err := os.OpenFile(fileName, os.O_CREATE|os.O_RDWR|os.O_TRUNC, 0644) 
+	file, err := os.OpenFile(fullFileName, os.O_CREATE|os.O_RDWR|os.O_TRUNC, 0644) 
 	if err != nil {
 		Log.WithField("text", err).Error()
 	}

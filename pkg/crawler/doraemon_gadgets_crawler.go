@@ -16,39 +16,40 @@ type doraemonGadgetsCrawler struct {
 	dc *colly.Collector // detail collector
 }
 
-func (d *doraemonGadgetsCrawler) ScrapeGadgetListFromAtoZ() error {
+func (d *doraemonGadgetsCrawler) ScapeGadgetListFromAtoZ() error {
 	var i rune
 	var err error
 	var total int
 	var removedGadgets int
 	var result []entities.DoraemonGadget
 	var filteredResult []entities.DoraemonGadget
+	var mergedResult []entities.DoraemonGadget
 
 	for i = 'A'; i <= 'Z'; i++ {
-			result, err = d.GetGadgetList(i)
-			if err != nil {
-					utils.Log.WithError(err).Error("Error getting gadget list for letter " + string(i))
-					return err
-			}
+		result, err = d.GetGadgetList(i)
+		if err != nil {
+				utils.Log.WithError(err).Error("Error getting gadget list for letter " + string(i))
+				return err
+		}
 
-			filteredResult = utils.RemoveUncertainData(result)
+		filteredResult = utils.RemoveUncertainData(result)
 
-			// Log results for debugging purposes
-			utils.Log.WithFields(logrus.Fields{
-					"letter": string(i),
-					"original_count": len(result),
-					"filtered_count": len(filteredResult),
-			}).Info("Scraping results")
+		// Log results for debugging purposes
+		utils.Log.WithFields(logrus.Fields{
+				"letter": string(i),
+				"original_count": len(result),
+				"filtered_count": len(filteredResult),
+		}).Info("Scraping results")
 
-			// Serialize the filtered result
-			utils.JsonSerialize(filteredResult, i, constants.MainExportPath)
+		mergedResult = append(mergedResult, filteredResult...)
 
-			total += len(result)
-			removedGadgets += len(filteredResult)
-
-			utils.Log.WithField("Field", string(i)).Info("Finished scraping letter " + string(i))
-			time.Sleep(10 * time.Second)
+		total += len(result)
+		removedGadgets += len(filteredResult)
+		
+		utils.Log.WithField("Field", string(i)).Info("Finished scraping letter " + string(i))
 	}
+
+	utils.JsonSerialize(mergedResult, "data", constants.MainExportPath)
 
 	utils.Log.WithFields(logrus.Fields{
 			"original_result": total,
