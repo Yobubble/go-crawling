@@ -16,7 +16,7 @@ type doraemonGadgetsCrawler struct {
 	dc *colly.Collector // detail collector
 }
 
-func (d *doraemonGadgetsCrawler) ScapeGadgetListFromAtoZ() error {
+func (d *doraemonGadgetsCrawler) ScapeGadgetListFromAtoZ() ([]entities.DoraemonGadget,error) {
 	var i rune
 	var err error
 	var total int
@@ -26,10 +26,10 @@ func (d *doraemonGadgetsCrawler) ScapeGadgetListFromAtoZ() error {
 	var mergedResult []entities.DoraemonGadget
 
 	for i = 'A'; i <= 'Z'; i++ {
-		result, err = d.GetGadgetList(i)
+		result, err = d.ScapeGadgetListFromLetter(i)
 		if err != nil {
 				utils.Log.WithError(err).Error("Error getting gadget list for letter " + string(i))
-				return err
+				return nil, err
 		}
 
 		filteredResult = utils.RemoveUncertainData(result)
@@ -49,17 +49,15 @@ func (d *doraemonGadgetsCrawler) ScapeGadgetListFromAtoZ() error {
 		utils.Log.WithField("Field", string(i)).Info("Finished scraping letter " + string(i))
 	}
 
-	utils.JsonSerialize(mergedResult, "data", constants.MainExportPath)
-
 	utils.Log.WithFields(logrus.Fields{
 			"original_result": total,
 			"filtered_result": removedGadgets,
 	}).Info("Finished scraping from A to Z")
 
-	return nil
+	return mergedResult, nil
 }
 
-func (d *doraemonGadgetsCrawler) GetGadgetList(letter rune) ([]entities.DoraemonGadget, error) {
+func (d *doraemonGadgetsCrawler) ScapeGadgetListFromLetter(letter rune) ([]entities.DoraemonGadget, error) {
 	var result []entities.DoraemonGadget
 
 	// visit at gadget's url

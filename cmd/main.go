@@ -1,6 +1,7 @@
 package main
 
 import (
+	"Github.com/Yobubble/go-crawling/pkg/constants"
 	"Github.com/Yobubble/go-crawling/pkg/crawler"
 	"Github.com/Yobubble/go-crawling/pkg/utils"
 )
@@ -13,8 +14,9 @@ func main() {
 	dora := crawler.NewDoraemonGadgetsCrawler()
 
 	// call function to scrape doraemon gadgets and output in json format
-	err := dora.ScapeGadgetListFromAtoZ()
+	result, err := dora.ScapeGadgetListFromAtoZ()
 	if err != nil {
 		utils.Log.WithError(err)
 	}
+	utils.JsonSerialize(result, "data", constants.MainExportPath)
 }
