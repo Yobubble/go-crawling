@@ -18,5 +18,7 @@ func main() {
 	if err != nil {
 		utils.Log.WithError(err)
 	}
-	utils.JsonSerialize(result, "data", constants.MainExportPath)
+
+	// generate json file from the result
+	utils.JsonSerialize(result, "documents", constants.MainExportPath)
 }
