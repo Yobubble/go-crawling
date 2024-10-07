@@ -2,522 +2,136 @@
   {
     "eng_name": "Face-Doodling Pen",
     "jp_name": "らくがおペン Rakugao pen",
-    "function": "The user draws over one's face on a picture via Face-Doodling Pen, and so that person's face will look exactly like it does in the photo which is doodled over by the Face-Doodling Pen. It is impossible to make the user look back normally without the usage of the Cancellation Eraser.",
+    "description": "The user draws over one's face on a picture via Face-Doodling Pen, and so that person's face will look exactly like it does in the photo which is doodled over by the Face-Doodling Pen. It is impossible to make the user look back normally without the usage of the Cancellation Eraser.",
     "appears_in": [
-      "Doodling on Doraemon",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Stationery gadgets"
+      "Doodling on Doraemon"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/8/8a/Face-Doodling_Pen.png/revision/latest/scale-to-width-down/350?cb=20140916082948\u0026path-prefix=en"
   },
   {
     "eng_name": "Fashion Virus",
     "jp_name": "流行性ネコシャクシウイルス or 流行性ネコシャクシビールス",
-    "function": "When a few drops of Fashion Virus is put into a petri dish, the 'experimenter' can say whatever things they want to add to the present fashion an alter it in a similar way of 'invocation'. The virus will then multiply and become abundant inside the petri dish. Afterwards, spreading the virus in the air will then make the virus spread and 'infects' any of the 'victims'. After the victim has been infested, they will immediately rush to change into the new \"infectious\" line of fashion.\nThe Fashion Virus is originally used for experimentation. Since fashion always changes from about the longest of between 10 years and the shortest of between 7 months, using it helps in research of trending and grossing ideas.",
+    "description": "When a few drops of Fashion Virus is put into a petri dish, the 'experimenter' can say whatever things they want to add to the present fashion an alter it in a similar way of 'invocation'. The virus will then multiply and become abundant inside the petri dish. Afterwards, spreading the virus in the air will then make the virus spread and 'infects' any of the 'victims'. After the victim has been infested, they will immediately rush to change into the new \"infectious\" line of fashion.\nThe Fashion Virus is originally used for experimentation. Since fashion always changes from about the longest of between 10 years and the shortest of between 7 months, using it helps in research of trending and grossing ideas.",
     "appears_in": [
-      "Chapter 90: The Fashion Virus",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
+      "Chapter 90: The Fashion Virus"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/b/be/Fashion_Virus2005.png/revision/latest/scale-to-width-down/350?cb=20140929143323\u0026path-prefix=en"
   },
   {
-    "eng_name": "Fear-Creation Machine",
-    "jp_name": "苦手つくり機Nigatetsukuriki",
-    "function": "NigatetsukurikiCreate Dekisugi's Fears, TooIf you write the person's name on the right and what you want them to be afraid of on the left, that person will be frightened by what is written. For example, if you enter Nobita's name on the right and Dorayaki on the left, he will be frightened by Dorayaki.",
-    "appears_in": [
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/a/a8/Fear_creation_machine.PNG/revision/latest/scale-to-width-down/350?cb=20150726045946\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Fictional Character Eggs",
-    "jp_name": "架空人物たまご",
-    "function": "Once a user picks an egg and open it, a fictional character of their choice (usually one from popular culture, fairy tales or mythologies) will appear (example: Lupin or Cinderella). After summoning one, they must be given orders, and will not disappear until it is done. Each of the capsules are single use.",
-    "appears_in": [
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/d/d9/Fictional_Character_Eggs.jpg/revision/latest/scale-to-width-down/350?cb=20190701014318\u0026path-prefix=en"
-  },
-  {
     "eng_name": "Fishing Pond for Things You Dropped",
     "jp_name": "落とし物つりぼり Ōtoshimono tsuribori",
-    "function": "The pond is used for looking for things that people have dropped i.e. lost. A fishing pole is dipped in the pond a description of the lost object is given. The user then has to specify the area of where to look, and the pole will most possibly drag out the object from the pond, or at least what it thinks is the object.",
+    "description": "The pond is used for looking for things that people have dropped i.e. lost. A fishing pole is dipped in the pond a description of the lost object is given. The user then has to specify the area of where to look, and the pole will most possibly drag out the object from the pond, or at least what it thinks is the object.",
     "appears_in": [
       "The Fishing Pond for Things You Dropped",
-      "Nobita's Long Day",
-      "Special:Categories",
-      "Category:Article stubs",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
+      "Nobita's Long Day"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/c/ce/Fishing_pond.jpg/revision/latest/scale-to-width-down/350?cb=20160202133359\u0026path-prefix=en"
   },
   {
     "eng_name": "Flashbang",
     "jp_name": "虫スカン",
-    "function": "The Flashbang is one of Doraemon's gadgets.\nThe Flashbang causes a loud yet harmless explosion and a gust of smoke upon detonation.",
+    "description": "The Flashbang is one of Doraemon's gadgets.\nThe Flashbang causes a loud yet harmless explosion and a gust of smoke upon detonation.",
     "appears_in": [
       "Nobita and the Knights of Dinosaurs",
-      "Nobita and the Wind Wizard",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from movies"
+      "Nobita and the Wind Wizard"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/8/86/Flashbang.png/revision/latest/scale-to-width-down/350?cb=20140907085809\u0026path-prefix=en"
   },
   {
-    "eng_name": "Gulliver Beam Light",
-    "jp_name": "ガリバー光線電灯",
-    "function": "The Gulliver Beam Light has the same functions as both the Big Light and Small Light. It has two buttons: one is red and the other is blue. By pressing the red button it can enlarge humans and/or objects and the blue does the opposite, it shrinks things.",
-    "appears_in": [
-      "Rats Are As Weak As Cats",
-      "Rats Are As Weak As Cats",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Flashlight-type gadgets",
-      "Category:Gadgets originated from 1973 series"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/4/41/015_8.jpg/revision/latest?cb=20170130141004\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Life Of Preservation Lite",
-    "jp_name": "生き物保護ライト",
-    "function": "What creature of this light will be surrounded energies called halo protected so that people want to protect",
-    "appears_in": [
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from 1979 series",
-      "Category:Flashlight-type gadgets"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/4/48/Life_Of_Preservation_Lite.png/revision/latest/scale-to-width-down/350?cb=20150807085933\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Restoration Light",
-    "jp_name": "もどりライト Modori Raito",
-    "function": "Similar to a torch, when it is pointed to some object, the object that the user points to will be transformed back to its original materials or ingredients. For example, if pointed at a dorayaki, the light will make the dorayaki transform back to ingredients like flour,red bean paste and egg.",
-    "appears_in": [
-      "The Restoration Light",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga",
-      "Category:Gadgets originated from 1979 series",
-      "Category:Flashlight-type gadgets"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/e/e4/RL.jpg/revision/latest/scale-to-width-down/350?cb=20150330101653\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Restoring Beam",
-    "jp_name": "復元光線 Fukugen Kōsen",
-    "function": "This gadget can be used to repair the defective goods into reusable.\nThe gadget can restore or do an action as Doraemon demonstrated in Doraemon Came Out! when the gadget did Nobita's homework for him. In Weakness Grasping/(Secret) Spy Operation, it was used to restore Nobita's broken vase.",
-    "appears_in": [
-      "Chapter 4:Operation: Secret SPY",
-      "Doraemon Came Out!",
-      "Weakness Grasping",
-      "(Secret) Spy Operation",
-      "Nobita Express and the Mystery of the Train Hunter",
-      "Doraemon Repair Shop",
-      "Special:Categories",
-      "Category:Article stubs",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga",
-      "Category:Flashlight-type gadgets"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/c/ce/Recovery_Light.PNG/revision/latest/scale-to-width-down/350?cb=20151013031740\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Small Light",
-    "jp_name": "スモールライト Sumōru Raito",
-    "function": "The Small Light shines a light beam that can reduce the size and mass of anything or anybody it touches. \nIt is a green flashlight with a yellow-orange bottom. It has a blue top with four spheres on it, and a glass hemisphere that emits the light beam. It also has two buttons, the red one shrinks the target, while the yellow one serves a reverse setting as it enlarges the target back to normal size.",
-    "appears_in": [
-      "A Visitor from the Country of the Future/U.S. English dub",
-      "Exploring the Earth (Part 2)",
-      "Even Though It's Inside the Stomach Acid",
-      "Giant Suneo Appears!",
-      "Nobita's Small, Small Great Adventure",
-      "The Parachute Race",
-      "Doraemon: New Nobita's Great Demon ~Peko and the Exploration Party of 5~",
-      "Doraemon: Nobita and the New Steel Troops ~Winged Angels~",
-      "Doraemon: Nobita's Little Star Wars",
-      "Doraemon: Nobita's Dinosaur 2006",
-      "Stand by Me Doraemon 2",
-      "Doraemon: Nobita's Little Star Wars 2021",
-      "Shizuka Minamoto",
-      "Dorami",
-      "Doraemon in North America",
-      "Doraemon (2005 anime)",
-      "Doraemon in Turkey",
-      "Doraemon Wii: Secret Tool King Tournament",
-      "Shrink Ray Skirmish",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga",
-      "Category:Flashlight-type gadgets",
-      "Category:Dorami`s Gadgets"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/e/e5/Small_Light.jpg/revision/latest/scale-to-width-down/350?cb=20190630111918\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Upgrade Light",
-    "jp_name": "グレードアップライト Gurēdoappu Raito",
-    "function": "This gadget used to make things become real. For example, if the gadget beam a superhero costume, the costume will turn into a real superhero costume and have a certain ability.\nThe costume that have been beamed:",
-    "appears_in": [
-      "Shizuka",
-      "Gian",
-      "Suneo",
-      "Doraemon",
-      "Rocky Head",
-      "Nobita",
-      "Nobita's Space Heroes",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Flashlight-type gadgets"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/2/25/Upgrade_Light.PNG/revision/latest/scale-to-width-down/350?cb=20150913093219\u0026path-prefix=en"
-  },
-  {
     "eng_name": "Flattening Iron (gadget)",
     "jp_name": "General InformationFunctionsDetailsGeneral InformationFunctionsDetails",
-    "function": "A roller variant called the Flattening Roller is used in the 2005 anime which has the same properties as the Flattening Iron.\nUse this gadget against any object (also works on people) and it will turn the object into a paper-like thinness. Since it weighs just like paper, the user can easily carry it around. It will return to normal when sprayed with water.\nThis gadget is used by Doraemon and Nobita to effortlessly move the furniture in Gian's cousin's apartment.",
+    "description": "A roller variant called the Flattening Roller is used in the 2005 anime which has the same properties as the Flattening Iron.\nUse this gadget against any object (also works on people) and it will turn the object into a paper-like thinness. Since it weighs just like paper, the user can easily carry it around. It will return to normal when sprayed with water.\nThis gadget is used by Doraemon and Nobita to effortlessly move the furniture in Gian's cousin's apartment.",
     "appears_in": [
       "Chapter 536:Flattening Iron",
       "Flattening Iron/1979 Anime",
-      "Flattening Iron/2005 Anime",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
+      "Flattening Iron/2005 Anime"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/b/b4/Flattening_Roller.jpg/revision/latest/scale-to-width-down/350?cb=20200909080104\u0026path-prefix=en"
   },
   {
     "eng_name": "Flattering Lipstick (gadget)",
     "jp_name": "おせじ口べに",
-    "function": "The Flattering Lipstick has two sides. One side is the Flattering Lipstick itself, while the other is the Insulting Lipstick. Applying them on one's lips will make all their words either 'flattering' or 'insulting', depending on what type of lipstick used. Simply wiping them off from the lips will remove its effect.",
+    "description": "The Flattering Lipstick has two sides. One side is the Flattering Lipstick itself, while the other is the Insulting Lipstick. Applying them on one's lips will make all their words either 'flattering' or 'insulting', depending on what type of lipstick used. Simply wiping them off from the lips will remove its effect.",
     "appears_in": [
       "Chapter 10:Flattering Lipstick",
-      "Flattering Lipstick",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
+      "Flattering Lipstick"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/0/01/Flattering_Lipstick.png/revision/latest?cb=20140905080828\u0026path-prefix=en"
   },
   {
     "eng_name": "Flattery Jaws (gadget)",
     "jp_name": "おだてヅヨ一ズ",
-    "function": "If someone wears the Flattery Jaws, they will be able to be very good at flattering someone.\n\u003ctabber\u003e\n|-|2005 anime=",
+    "description": "If someone wears the Flattery Jaws, they will be able to be very good at flattering someone.\n\u003ctabber\u003e\n|-|2005 anime=",
     "appears_in": [
-      "Flattery Jaws",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from 2005 series",
-      "Category:Headwear gadgets"
+      "Flattery Jaws"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/e/ef/Flattery_Jaws.png/revision/latest/scale-to-width-down/350?cb=20150819115255\u0026path-prefix=en"
   },
   {
     "eng_name": "Floating Scarf",
     "jp_name": "フワフワオビ",
-    "function": "The Floating Scarf must be worn properly so that it may carry the wearer likewise. The typical method of wearing it by wrapping it around the shoulders and arm. The Floating Scarf will then make its wearer float, just like the goddess in the popular Noh play, Hagoromo. The Floating Scarf is incredibly light, so its flight pattern may be greatly affected by wind patterns. Unlike the Take-copter, the Floating Scarf doesn't consume battery.",
+    "description": "The Floating Scarf must be worn properly so that it may carry the wearer likewise. The typical method of wearing it by wrapping it around the shoulders and arm. The Floating Scarf will then make its wearer float, just like the goddess in the popular Noh play, Hagoromo. The Floating Scarf is incredibly light, so its flight pattern may be greatly affected by wind patterns. Unlike the Take-copter, the Floating Scarf doesn't consume battery.",
     "appears_in": [
       "Chapter 23:Robe of Feather",
-      "Doraemon: Nobita's Secret Gadget Museum",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
+      "Doraemon: Nobita's Secret Gadget Museum"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/4/40/Floating_Scarf2005.png/revision/latest/scale-to-width-down/350?cb=20140929135814\u0026path-prefix=en"
   },
   {
     "eng_name": "Flying Hoop",
     "jp_name": "飛ばし穴 Tobashi ana",
-    "function": "It can skip the person or animal who set foot on it. In the manga, it became invisible when placed on the ground.",
+    "description": "It can skip the person or animal who set foot on it. In the manga, it became invisible when placed on the ground.",
     "appears_in": [
       "Chapter 205: Doraemon's Secret",
-      "The Giant Dora-Raccoon at Midnight",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
+      "The Giant Dora-Raccoon at Midnight"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/9/91/Flying_Hoop.PNG/revision/latest/scale-to-width-down/350?cb=20160306091557\u0026path-prefix=en"
   },
   {
-    "eng_name": "Animal Transformation Biscuits",
-    "jp_name": "動物ビスケット Dōbutsu Bisuketto",
-    "function": "Animal Transformation Biscuits are typically eaten by children as toys. After eating one, it requires about a few minutes to transform. During transformation, the person may involuntarily make the corresponding animal's sound like 'Growl' (for a lion), 'Meow' (for a cat) and 'Woof' (for a dog). After the transformation, the person will turn back to normal in about 5 minutes.",
-    "appears_in": [
-      "Chapter 3:Transforming Biscuit",
-      "The Transformation Biscuits",
-      "Love!? The Transformation Biscuits",
-      "Doraemon, In Love",
-      "Nobita Nobi",
-      "Tamako Nobi",
-      "Special:Categories",
-      "Category:Empty sections",
-      "Category:Gadgets originated from original manga",
-      "Category:Food gadgets"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/2/2f/Animal_Biscuit.PNG/revision/latest/scale-to-width-down/350?cb=20230823162206\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Instant Chocolate Maker",
-    "jp_name": "インスタントチョコメーカー Insutanto Choko Mēkā",
-    "function": "When an object is placed on the gadget, the gadget produces a chocolate with the shape of the certain object. The chocolate produced by the gadget is delicious.",
-    "appears_in": [
-      "Serve the Chocolate Nobita",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from 2005 series",
-      "Category:Food-maker gadgets"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/3/36/%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%88%E3%83%81%E3%83%A7%E3%82%B3%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC.png/revision/latest/scale-to-width-down/350?cb=20151203040926\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Popcorn Hat",
-    "jp_name": "ポップコーン ハット",
-    "function": "This gadget turns people's anger into heat energy to cook popcorn. When someone is angry, the user can use this hat and put it on whoever is angry. The person's anger will transfer to heat and the hat will pop out popcorn, also causing the person to calm down. Different people's anger makes different flavored popcorn which depends on how often their anger is or based on their own cooking skills such as Gian. Nobita, Suneo's popcorn tastes normal, Nobita's mother's popcorn is pretty spicy, Gian's popcorn tastes like his own stew and other things he cooked, which taste awful, and Kaminari's popcorn is arguably the best popcorn tasted.\nBut if the wearer is angered to the limit, their anger would build up and end up producing a lot a popcorn. But unfortunately, every piece would be burnt to a crisp.\nInterestingly, a different flavor is made on every alternate use in the episode Anger Popcorn.\nShizuka is the only character whose flavour is unknown.",
-    "appears_in": [
-      "Anger Popcorn",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from 2005 series",
-      "Category:Headwear gadgets",
-      "Category:Food-maker gadgets"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/1/15/Popcornhat.png/revision/latest/scale-to-width-down/350?cb=20150508054035\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Sampling Spoon",
-    "jp_name": "味見スプーン Ajimi Supūn",
-    "function": "Using the gadget, the user can taste samples of several foods from the magazines, books or pictures. It is very convenient since the user does not have to go very far or spend money just to taste the food. However, the spoon can only be used one time per picture, so if the user wants to taste it again, he/she will need another spoon.",
-    "appears_in": [
-      "The Sampling Spoon",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from 2005 series",
-      "Category:Food-maker gadgets"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/e/eb/Sampling_Spoon.jpg/revision/latest?cb=20151217063658\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Voice Candy",
-    "jp_name": "声のキャンディー Koe no kyandī",
-    "function": "First say anything to the mike, this will record one's voice. Then the gadget will turn it into a candy. Get another person to eat the candy and he/she will have the speaker's voice. The effect will wear off after half an hour. He/She can also change into another voice.",
-    "appears_in": [
-      "I'll Become a Singer By Eating Candy",
-      "Takeshi Gouda",
-      "Nobita Nobi",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga",
-      "Category:Food-maker gadgets"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/e/ea/Voice_Candy.png/revision/latest/scale-to-width-down/350?cb=20140906105152\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Watermelon Pen",
-    "jp_name": "スイカぺン Suika pen",
-    "function": "Watermelon Pen is Doraemon's gadget.\nBlindfolded Shizuka is splitting watermelons.it used to make anything turn into watermelon.",
-    "appears_in": [
-      "A Watermelon Pen",
-      "Doraemon Is An Exam Student Now!?",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Stationery gadgets",
-      "Category:Food-maker gadgets"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/a/ab/Watermelon_Pen.PNG/revision/latest/scale-to-width-down/350?cb=20160605020923\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Illumination Crackers",
-    "jp_name": "イルミネーション クラッカー Iruminēshon Kurakkā",
-    "function": "If someone takes this cracker, the person will glow. And once the user starts glowing, they stay lit up for the entire day.",
-    "appears_in": [
-      "The Great, Twinkling Christmas Plan",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from 2005 series",
-      "Category:Food gadgets"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/8/89/Illumination_Crackers.png/revision/latest/scale-to-width-down/350?cb=20150813032608\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Insect Pills",
-    "jp_name": "コンチュー丹 Konchū Tan",
-    "function": "It gives the user the power to fly like a butterfly, the power to sting like bees, ants' strength, and a strong body, such as in a hard beetle. It also causes the user to have bug-like behaviors like eating leaves, being afraid of nets and fainting due to bug sprays.\nNobita",
-    "appears_in": [
-      "The Invincible! Insect Pills",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga",
-      "Category:Food gadgets"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/c/c4/Insect_Pills.jpg/revision/latest/scale-to-width-down/350?cb=20190625140031\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Later Candy",
-    "jp_name": "おそだアメ Osoda Ame",
-    "function": "When consumed, the user's voice will be delayed for a period of time, based on the amount of candy ate\nEach candy can delay the user's voice for 10 minutes.",
-    "appears_in": [
-      "The Later Candy",
-      "There are 1000 Gians",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga",
-      "Category:Food gadgets",
-      "Category:Article stubs"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/c/cc/Later_Candy.PNG/revision/latest/scale-to-width-down/350?cb=20160318130315\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Momotaro Jirushi's Millet Dumplings",
-    "jp_name": "桃太郎印のきびだんごMomotarō Jirushi no Kibidango",
-    "function": "It was used to tame a beast. Once it got rotten, it will lose its effect.",
-    "appears_in": [
-      "Nobita's Dinosaur",
-      "Nobita and the Haunts of Evil",
-      "Nobita's Dinosaur 2006",
-      "The New Nobita's Great Demon ~Peko and the Exploration Party of 5~",
-      "Nobita and the Island of Miracles ~Animal Adventure~",
-      "The Time Machine Disappeared!!",
-      "Nobita Meets the Masked Queen",
-      "I'm Mini Doraemon",
-      "Doraemon: New Nobita's Great Demon ~Peko and the Exploration Party of 5~",
-      "wikipedia:Kibi dango (millet dumpling)",
-      "wikipedia:Momotarō",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga",
-      "Category:Food gadgets"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/d/d4/Momotaro_Training_Dango_2005_anime.PNG/revision/latest/scale-to-width-down/350?cb=20151020053737\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Resignation Carrot",
-    "jp_name": "辞ニンジン Jininjin",
-    "function": "This gadget is used to make someone resign from his/her position.\nPeople who resign because eating this gadget :",
-    "appears_in": [
-      "Gian",
-      "Tamako Nobi",
-      "Doraemon",
-      "Sensei",
-      "Suneo",
-      "Kaminari",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Food gadgets"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/1/15/Resignation_Carrot.PNG/revision/latest/scale-to-width-down/350?cb=20160319063342\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Rival-Making Steak",
-    "jp_name": "しゅくテキ Shuku teki",
-    "function": "If person ate it, he/she will be swelling up and overflowing with competitive spirit.",
-    "appears_in": [
-      "The Mom vs. Rich Mother Battle",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Food gadgets"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/a/a1/Rival-Making_Steak.PNG/revision/latest/scale-to-width-down/350?cb=20160316122541\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Translation Tool",
-    "jp_name": "ほんやくコンニャク Hon'yaku kon'nyaku",
-    "function": "If one eats it, the user will be able to speak and understand other languages, has the external effect of the user sounding fluent in the other languages. This edible gadget can also be used to communicate with animals as well.",
-    "appears_in": [
-      "Nobita Meets the Masked Queen",
-      "Running Across Time! The Time Borrowing Race",
-      "Nobita’s Birth of Japan",
-      "Nobita's South Sea Adventure",
-      "Doraemon: Nobita's Legend of the Sun King",
-      "Nobita and the Wind Wizard",
-      "Doraemon: Nobita's Dorabian Nights",
-      "Nobita's New Great Adventure into the Underworld – The Seven Magic Users",
-      "Doraemon: Nobita's Great Battle of the Mermaid King",
-      "Doraemon: Nobita and the Island of Miracles ~Animal Adventure~",
-      "The New Nobita's Great Demon ~Peko and the Exploration Party of 5~",
-      "Nobita and the Birth of Japan 2016",
-      "Doraemon: Nobita's Great Adventure in the Antarctic Kachi Kochi",
-      "Moving to a Haunted Castle",
-      "Doraemon: Nobita's Earth Symphony",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga",
-      "Category:Food gadgets"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/7/7e/Konyaku.jpg/revision/latest/scale-to-width-down/350?cb=20190625234011\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Urashima Candy",
-    "jp_name": "ウラシマキャンディー Urashima Kyandī",
-    "function": "When eaten, all acts of kindness by the user will be rewarded.",
-    "appears_in": [
-      "The Urashima Candy",
-      "Eight Days in the Palace of the Dragon King",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga",
-      "Category:Food gadgets"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/7/74/Urashima_Candy.jpg/revision/latest/scale-to-width-down/350?cb=20190701020250\u0026path-prefix=en"
-  },
-  {
     "eng_name": "Forgotten Stick",
     "jp_name": "ワスレンボー Wasurenbō",
-    "function": "When the gadget hits the head of a person that person's memories will be forgotten. When hit again, the memories will return but his/her memories before he/she was hit again will be removed.",
+    "description": "When the gadget hits the head of a person that person's memories will be forgotten. When hit again, the memories will return but his/her memories before he/she was hit again will be removed.",
     "appears_in": [
       "But, I Saw A Ghost!",
       "Nobita and the Island of Miracles ~Animal Adventure~",
-      "Stand by Me Doraemon 2",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga",
-      "Category:Stick gadgets",
-      "Category:Empty sections"
+      "Stand by Me Doraemon 2"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/5/53/Forgotted_Stick.PNG/revision/latest/scale-to-width-down/350?cb=20151024121544\u0026path-prefix=en"
   },
   {
     "eng_name": "Four-Dimensional Building Extension Blocks (gadget)",
     "jp_name": "四次元たてましブロック",
-    "function": "By inserting a \"room block\" between the first floor and the top floor, a new room will be created between the two floors. When looking from the outside the exterior of the house will be the same as the rooms are compressed in the 4th dimension.\nThe 2005 version of the anime also reveals that if the block is somehow removed while there is still a person inside the room, when exiting the room and attempting to go up or down the stairs, the person will be trapped on the same floor like Möbius strip.",
+    "description": "By inserting a \"room block\" between the first floor and the top floor, a new room will be created between the two floors. When looking from the outside the exterior of the house will be the same as the rooms are compressed in the 4th dimension.\nThe 2005 version of the anime also reveals that if the block is somehow removed while there is still a person inside the room, when exiting the room and attempting to go up or down the stairs, the person will be trapped on the same floor like Möbius strip.",
     "appears_in": [
-      "Fourth Dimensional House Block",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
+      "Fourth Dimensional House Block"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/9/9b/Fourthdimensionalhouseblock.jpg/revision/latest?cb=20140626181602\u0026path-prefix=en"
   },
   {
+    "eng_name": "Free-Size Toy Camera",
+    "jp_name": "フリーサイズぬいぐるみカメラ Furī Saizu Nuigurumi Kamera",
+    "description": "The item can accept when fed with an image of a specified target - usually a humanoid entity - as ammunition. Afterwards, it spews a spheric capsule that expands into a plush suit resembling the target.\nThe plush adapts to the user actively so they can be used by shorter or taller entities. It visually resembles the target in many ways, but cannot fully disguise the voice of the user as it is still somewhat different to the original counterpart.",
+    "appears_in": [
+      "Nobita and the Wind Wizard",
+      "Nobita Becomes Shizuka-chan"
+    ],
+    "image_url": "https://static.wikia.nocookie.net/doraemon/images/e/e1/Freesizetoycamera.png/revision/latest/scale-to-width-down/350?cb=20150528042933\u0026path-prefix=en"
+  },
+  {
     "eng_name": "Friend Circle",
     "jp_name": "友だちの輪 Tomodachi no Wa",
-    "function": "By standing inside the circle with a partner it can make them befriend each other.",
+    "description": "By standing inside the circle with a partner it can make them befriend each other.",
     "appears_in": [
-      "The Friend Circle",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from 1979 series",
-      "Category:Gadgets originated from original manga",
-      "Category:Paper Gadget"
+      "The Friend Circle"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/2/24/Friend_Circle.PNG/revision/latest/scale-to-width-down/350?cb=20160328090849\u0026path-prefix=en"
   },
   {
     "eng_name": "Fur Coat Ring",
     "jp_name": "ケガワリング Kegawaringu",
-    "function": "When the body passes through this hoop, it will be coated with fur. The effect of Fur Coat Ring does not wear off until three days. The fur can be shaved, but it grows back after some time.",
+    "description": "When the body passes through this hoop, it will be coated with fur. The effect of Fur Coat Ring does not wear off until three days. The fur can be shaved, but it grows back after some time.",
     "appears_in": [
-      "The Fur Coat Ring",
-      "Special:Categories",
-      "Category:Gadgets"
+      "The Fur Coat Ring"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/5/57/Fur_Coat_Ring.png/revision/latest/scale-to-width-down/350?cb=20150813033813\u0026path-prefix=en"
   }

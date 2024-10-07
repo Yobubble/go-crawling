@@ -31,7 +31,7 @@ func RemoveUncertainData(result []entities.DoraemonGadget) []entities.DoraemonGa
 	var filteredResult []entities.DoraemonGadget
 
 	for _, data := range result {
-		if data.EngName != "" && data.JpName != "" && data.Function != "" && data.AppearsIn != nil && data.ImageUrl != "" {
+		if data.EngName != "" && data.JpName != "" && data.Description != "" && data.AppearsIn != nil && data.ImageUrl != "" {
 			filteredResult = append(filteredResult, data)
 		}
 	}	

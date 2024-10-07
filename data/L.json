@@ -1,23 +1,37 @@
 [
   {
+    "eng_name": "Later Candy",
+    "jp_name": "おそだアメ Osoda Ame",
+    "description": "When consumed, the user's voice will be delayed for a period of time, based on the amount of candy ate\nEach candy can delay the user's voice for 10 minutes.",
+    "appears_in": [
+      "The Later Candy",
+      "There are 1000 Gians"
+    ],
+    "image_url": "https://static.wikia.nocookie.net/doraemon/images/c/cc/Later_Candy.PNG/revision/latest/scale-to-width-down/350?cb=20160318130315\u0026path-prefix=en"
+  },
+  {
     "eng_name": "Laughing Earbud",
     "jp_name": "ゲラゲライヤホン",
-    "function": "If a person puts it in their ear, everything they hear turns into a joke that is very funny.",
+    "description": "If a person puts it in their ear, everything they hear turns into a joke that is very funny.",
     "appears_in": [
       "Chapter 133:Live with a Laugh",
-      "Let's Live to Laugh",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga",
-      "Category:Article stubs",
-      "Category:Empty sections"
+      "Let's Live to Laugh"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/f/fd/Laughing_Earbud.png/revision/latest/scale-to-width-down/350?cb=20150811071759\u0026path-prefix=en"
   },
   {
+    "eng_name": "Leopard Cat Glasses and Tail",
+    "jp_name": "タヌ機, Tanuki",
+    "description": "This gadget is used to control the mind like the mythological creatures of Japanese (Tanuki).",
+    "appears_in": [
+      "Chapter 122 : Leopard Cat Machine"
+    ],
+    "image_url": "https://static.wikia.nocookie.net/doraemon/images/1/1e/Tanuki.PNG/revision/latest/scale-to-width-down/350?cb=20150805140158\u0026path-prefix=en"
+  },
+  {
     "eng_name": "Lie 800",
     "jp_name": "ＬＩＥ　８００",
-    "function": "When consumed, any events said by the user will forcibly occur in the other way around.\nIt is able to affect subjects any point in the timeline. For example, when Suneo insults Nobita who curses him with the potion's effects, a dog suddenly appears out of nowhere and viciously attacks Suneo, and when Nobita laments on Doraemon's premature departure, the latter suddenly pops out inside his room.",
+    "description": "When consumed, any events said by the user will forcibly occur in the other way around.\nIt is able to affect subjects any point in the timeline. For example, when Suneo insults Nobita who curses him with the potion's effects, a dog suddenly appears out of nowhere and viciously attacks Suneo, and when Nobita laments on Doraemon's premature departure, the latter suddenly pops out inside his room.",
     "appears_in": [
       "Chapter 107: Return of Doraemon",
       "Doraemon Comes Back",
@@ -25,85 +39,65 @@
       "Doraemon: Nobita's Secret Gadget Museum",
       "Stand by Me Doraemon",
       "Inspector Mustard",
-      "Kaitou DX",
-      "Special:Categories",
-      "Category:Article stubs",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
+      "Kaitou DX"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/7/7c/Mean_Drink.png/revision/latest/scale-to-width-down/350?cb=20140928060540\u0026path-prefix=en"
   },
   {
-    "eng_name": "Lie Absorbing Machine",
-    "jp_name": "ウソージキ \"\"Usōjiki\"\"",
-    "function": "Lie Absorbing Machine is a gadget owned by Doraemon \nNobita is very upset by his friends because he got fooled again on April Fools Day. He hates April Fools Day very much, and for this reason Doraemon takes out The Lie Absorbing Machine. It absorbs all the lies that people made and prevent someone from talking lies. But if you are absorbing too much lies, the machine will explode.\nUsing Lie Absorber at April Fools' Day",
-    "appears_in": [
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Article stubs"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/f/f3/Lie_Absorbing_Machine.png/revision/latest/scale-to-width-down/350?cb=20240824042414\u0026path-prefix=en"
-  },
-  {
     "eng_name": "Lie Speaker",
     "jp_name": "アトカラホントスピーカー Atokarahonto supīkā",
-    "function": "Hold this bullhorn up to your mouth and tell a lie, and that lie will then become truth.",
+    "description": "Hold this bullhorn up to your mouth and tell a lie, and that lie will then become truth.",
     "appears_in": [
-      "The Lie Speaker",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
+      "The Lie Speaker"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/9/9b/Lie_Speaker.jpg/revision/latest/scale-to-width-down/350?cb=20190729133902\u0026path-prefix=en"
   },
   {
+    "eng_name": "Lifeboat",
+    "jp_name": "助け船 Tasukebune",
+    "description": "It is used to detect and find people who need help.",
+    "appears_in": [
+      "The \"Help Me!\" Lifeboat"
+    ],
+    "image_url": "https://static.wikia.nocookie.net/doraemon/images/7/71/Tasuke_Bune.png/revision/latest/scale-to-width-down/350?cb=20151130023742\u0026path-prefix=en"
+  },
+  {
     "eng_name": "Light-or-Heavy Meter",
     "jp_name": "ふんわりズッシリメーター",
-    "function": "This meter can be used to modify the weight of a person or object. Point the meter towards the thing you want to use it on, and press the one of the buttons on either side. If you want to make it heavier, push the + button, if you want to make it lighter, push the negative (-) button.",
+    "description": "This meter can be used to modify the weight of a person or object. Point the meter towards the thing you want to use it on, and press the one of the buttons on either side. If you want to make it heavier, push the + button, if you want to make it lighter, push the negative (-) button.",
     "appears_in": [
-      "Nobita Nobi",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
+      "Nobita Nobi"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/0/0f/Lightorheavymeter.jpg/revision/latest/scale-to-width-down/350?cb=20200914064530\u0026path-prefix=en"
   },
   {
     "eng_name": "Lucky Gun (Gadget)",
     "jp_name": "幸運の銃 Kōun no jū",
-    "function": "There are four bullets, three of them are red and one black. Get hit by the red bullet, and one will have a day of good luck. Get hit by the black bullet, and one will have a day of bad luck.",
+    "description": "There are four bullets, three of them are red and one black. Get hit by the red bullet, and one will have a day of good luck. Get hit by the black bullet, and one will have a day of bad luck.",
     "appears_in": [
       "Chapter 69: Lucky Gun",
-      "Lucky Gun",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
+      "Lucky Gun"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/0/09/LuckyGun.png/revision/latest/scale-to-width-down/350?cb=20150718181734\u0026path-prefix=en"
   },
   {
     "eng_name": "Lying Beak",
     "jp_name": "ソノウソホント Sonousohonto",
-    "function": "Wearing this on one's mouth and lying to someone makes them believe that the spoken lie is true, even though it is actually not. To stop the effect of the gadget, the wearer has to conclude that it is a lie.\n\n\u003c/gallery\u003e",
+    "description": "Wearing this on one's mouth and lying to someone makes them believe that the spoken lie is true, even though it is actually not. To stop the effect of the gadget, the wearer has to conclude that it is a lie.\n\n\u003c/gallery\u003e",
     "appears_in": [
       "Chapter 054:Lies Become Truths",
       "That Lie is True!",
-      "The Competition Of Man's Power",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
+      "The Competition Of Man's Power"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/6/63/Lyingduckbeak.png/revision/latest/scale-to-width-down/350?cb=20140409232914\u0026path-prefix=en"
   },
   {
     "eng_name": "Lying Machine (gadget)",
     "jp_name": "横たわる機械 Yokotawaru kikai",
-    "function": "When the user tells a lie (or joke) to the person, that person will believe whatever that user has told him/her, regardless of how ridiculous or unbelievable it was.",
+    "description": "When the user tells a lie (or joke) to the person, that person will believe whatever that user has told him/her, regardless of how ridiculous or unbelievable it was.",
     "appears_in": [
       "Lying Beak",
-      "Flag of Truth (gadget)",
-      "Special:Categories",
-      "Category:Gadgets"
+      "Flag of Truth (gadget)"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/e/ed/LyingMachine1979.JPG/revision/latest/scale-to-width-down/350?cb=20201029184927\u0026path-prefix=en"
   }

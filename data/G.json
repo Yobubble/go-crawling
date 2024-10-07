@@ -1,701 +1,75 @@
 [
   {
-    "eng_name": "'Wanna Give' Tie",
-    "jp_name": "アゲタイタイ Agetai Tai",
-    "function": "It looks like a normal necktie which is red in color.",
-    "appears_in": [
-      "I 'Wanna Give' You My Everything",
-      "Nobita Nobi",
-      "Doraemon",
-      "Doraemon",
-      "Nobita Nobi",
-      "I 'Wanna Give' You My Everything",
-      "Nobita Nobi",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from 2005 series"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/f/ff/Wanna_Give_Tie.PNG/revision/latest/scale-to-width-down/350?cb=20160215113717\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Instant Object Mobile (gadget)",
-    "jp_name": "物体瞬間移動機",
-    "function": "The gadget is a machine that has a screen with a pointer, which serves to indicate what object or person the user wants to bring. It also has a platform where the determined object or person will appear when the user presses and \"O.K.\" button. In both of its appearances, it was used to bring back the toys and manga that Gian had confiscated.",
-    "appears_in": [
-      "Defeat the Bully",
-      "Defeat the Bully",
-      "Defeat the Bully",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga",
-      "Category:Gadgets originated from 1979 series",
-      "Category:Gadgets originated from 1973 series"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/b/bc/Weapon_08_01.jpg/revision/latest?cb=20170201201907\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Joining Incense",
-    "jp_name": "なかまいりせんこう  naka mairi senkō",
-    "function": "By pressing the button, a smoke will come out of the green tip. Walk around the target person/people with the smoke surrounding them at least once and you will be able to join their group.",
-    "appears_in": [
-      "The Joining Incense",
-      "Sucking Mosquito",
-      "Special:Categories",
-      "Category:Article stubs",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga",
-      "Category:Gadgets originated from 1979 series"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/7/75/Joining_Incense.PNG/revision/latest/scale-to-width-down/350?cb=20160611082526\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Leopard Cat Glasses and Tail",
-    "jp_name": "タヌ機, Tanuki",
-    "function": "This gadget is used to control the mind like the mythological creatures of Japanese (Tanuki).",
-    "appears_in": [
-      "Chapter 122 : Leopard Cat Machine",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga",
-      "Category:Gadgets originated from 1979 series",
-      "Category:Gadgets originated from 2005 series"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/1/1e/Tanuki.PNG/revision/latest/scale-to-width-down/350?cb=20150805140158\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Magic Hands",
-    "jp_name": "マジックハンド Majikku Hando",
-    "function": "Whenever the user wears the Magic Hands, they can gain slight telekinetic or mind control powers, acting on objects and other living beings without touching them.",
-    "appears_in": [
-      "Category:Magical Gadgets",
-      "Category:Glove gadgets",
-      "Doing Anything I Please with the Magic Hands",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga",
-      "Category:Gadgets originated from 1979 series",
-      "Category:Magical Gadgets",
-      "Category:Glove gadgets"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/5/50/Magic_Hands.PNG/revision/latest/scale-to-width-down/350?cb=20151017075443\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Mini Garden Series",
-    "jp_name": "箱庭シリーズ・急流山 Hakoniwa Shirīzu: Kyūryūzan箱庭シリーズ・赤松山 Hakoniwa Shirīzu: Akamatsuyama箱庭シリーズ・岩山 Hakoniwa Shirīzu: Iwayama箱庭シリーズ・ゲレンデ山 Hakoniwa Shirīzu: Gerendeyama箱庭シリーズ・ハイキング山 Hakoniwa Shirīzu: Haikinguyama箱庭シリーズ・冒険山 Hakoniwa Shirīzu: Bōkenyama",
-    "function": "Mini Garden Series (箱庭シリーズ Hakoniwa Shirīzu) is the series of Doraemon's gadget. These gadgets is useless if the user hasn't Small Light.\n\nMain article: White Water Mountain\nThe White Water Mountain is the suitable mountain for fishing.\n\nThe Japanese Red Pine Mountain is the suitable mountain for mushroom picking.\n\nMain article: Rocky Mountain\nThe Rocky Mountain is the suitable mountain for practicing rock climbing.\n\nMain article: Snowy Mountain\nThe Snowy Mountain is the suitable mountain for skiing.\n\nMain article: Hiking Mountain\nThe Hiking Mountain is the  mountain for kids. This mountain can use for hiking and picnic.\n\nMain article: Adventurous Mountain\nThe Adventurous Mountain is the  mountain for adventure.",
-    "appears_in": [
-      "Mushroom Picking with a Mini Garden",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from 1979 series",
-      "Category:Set of Gadgets",
-      "Category:Gadgets originated from original manga"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/7/7e/Mini_Garden_Series_White_Water_Mountain.PNG/revision/latest/scale-to-width-down/350?cb=20150830130513\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "N-S Crest",
-    "jp_name": "エヌ・エス ワッペン",
-    "function": "The N (North) badge is red in color and the S (South) badge in blue in color, representing the two different colors of a magnet. \nWhen two persons wears the same Crest (either N or S), they will repel each other, just like how magnets works. While if one person wears the N Crest while the other wears the S Crest, they'll be attracted to each other. Simply put, the Crest itself cause the person to become a magnetic pole themselves (theoretically speaking).",
-    "appears_in": [
-      "Chapter 28:N-S Crest",
-      "N-S Badges",
-      "Shizuka's Present is Nobita",
-      "Nobita and the New Steel Troops ~Angel Wings~",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga",
-      "Category:Gadgets originated from 1979 series"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/6/61/Huy_hi%E1%BB%87u_nam_ch%C3%A2m_N-S.jpg/revision/latest?cb=20150215102359\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Random Disk (gadget)",
-    "jp_name": "おまかせディスク Omakase disuku",
-    "function": "It may be used for a number of purposes, hence the name \"random\". In the episode it was used to record the music Nobita was supposed to play in a show, so that he could play it in the show without making mistakes.",
-    "appears_in": [
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from 1979 series",
-      "Category:Disk Gadget"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/e/ed/Omakase_disk.jpg/revision/latest/scale-to-width-down/350?cb=20151228071739\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "The Life Do-Over Machine",
-    "jp_name": "人生やりなおし機 Do-Over Machine",
-    "function": "The Do-Over Machine can let the user to do-over machine in \"that\" age that user wants. However, the machine also keep the user's strengh and IQ.",
-    "appears_in": [
-      "The Life Do-Over Machine (episode)",
-      "Redo Life Machine",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from 2005 series",
-      "Category:Gadgets originated from original manga",
-      "Category:Gadgets originated from 1979 series"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/2/2b/Do-Over_Machine_.png/revision/latest?cb=20171126144055\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "The Soul Machine",
-    "jp_name": "General InformationFunctionsDetails",
-    "function": "Stand by Me Doraemon 2The Soul Machine is a gadget used in both Doraemon 2005 anime and Stand by Me Doraemon 2.\nThe gadget has a suction rope that takes your soul into a machine and travels back to the past inside of your mind.",
-    "appears_in": [
-      "Stand by Me Doraemon 2",
-      "Special:Categories",
-      "Category:Gadgets originated from 2005 series",
-      "Category:Gadgets",
-      "Category:Gadgets originated from 1979 series"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/8/8f/SoulMachine2005%28G%29.png/revision/latest/scale-to-width-down/350?cb=20201026195633\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Timed Stupidity Bomb",
-    "jp_name": "時限バカ弾 Jigen Baka Dan",
-    "function": "The bomb has a timer that must be activated before it can detonate. If anything was caught in its area of effect, the bomb stupefies its targets, causing them to hallucinate and behave erratically.It affects both humans and machines, while the effect lasts for up to 5 minutes.",
-    "appears_in": [
-      "Suneo's in Love",
-      "The Stupidity Time Bombs",
-      "Doraemon's Blue Tears",
-      "Summer Vacation In The 22nd Century",
-      "Doraemon: Nobita's Treasure Island",
-      "Jigen Baka Dan (minigame)",
-      "Doraemon Wii: Secret Tool King Tournament",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from 1979 series",
-      "Category:Gadgets originated from original manga"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/f/fd/TimednStupidity_Bomb.jpg/revision/latest/scale-to-width-down/350?cb=20190701020249\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Kurupa Rays Gun",
-    "jp_name": "クルクルパー光線 Kurukurupā Kōsen",
-    "function": "The Kurupa Rays Gun is a gun-shaped gadget that serves to hypnotise or weaken the human brain, and thus making the person act more dumb. The gadget launches radio waves. It was used by Doraemon, who made Nobita's classmates and teacher unintelligent and his parents more childish.",
-    "appears_in": [
-      "Doraemon Came Out!",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga",
-      "Category:Gun-type weapons",
-      "Category:Weapon Gadgets"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/a/a2/KuruKurupaKousen.jpg/revision/latest?cb=20170201014024\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Shock Gun",
-    "jp_name": "ショックガン Shokku Gan",
-    "function": "It is the initial starting weapon in Doraemon for the Famicom.\nIt only stuns an opponent, not killing them.",
-    "appears_in": [
-      "Category:Gun-type weapons",
-      "Category:Weapon Gadgets",
-      "Nobita and the Haunts of Evil",
-      "Nobita and the Steel Troops",
-      "Nobita and the Animal Planet",
-      "Nobita and the New Steel Troops ~Angel Wings~",
-      "The New Nobita's Great Demon ~Peko and the Exploration Party of 5~",
-      "Doraemon: New Nobita's Great Demon ~Peko and the Exploration Party of 5~",
-      "Suneo Honekawa",
-      "Stun Gun Showdown",
-      "Doraemon Wii: Secret Tool King Tournament",
-      "Nobita Nobi",
-      "Special:Categories",
-      "Category:Article stubs",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga",
-      "Category:Gun-type weapons",
-      "Category:Weapon Gadgets"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/e/e8/Shock_Gun.JPG/revision/latest?cb=20151006110320\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Wrestling Killer (Gadget)",
-    "jp_name": "ころばし屋 Korobashiya",
-    "function": "It appears to be a mini gadget version of a normal hit man. It has some large sunglasses, a large dark green hat and a white suit and a tie underneath his green coat. His hands and legs are very small. His hands are similar to Doraemon's. \nThe user pays 10 Yen(10 cents in US), declare a name of his/her target. This gadget will then knock that target up for 3 times using it Mini Air Cannon. Once the order has been declared, the Gadget will continuously chase it target until the target has been knock up 3 times. However, the order can be cancelled by paying 100 Yen(1 dollar in US).  \nYou can input the coins through it's back.",
-    "appears_in": [
-      "Wrestling Killer",
-      "Wrestling Killer Z (gadget)",
-      "Doraemon: Nobita's Secret Gadget Museum",
-      "Nobita and the Robot Kingdom",
-      "Nobita Express and the Mystery of the Train Hunter",
-      "Wrestling Killer Z (gadget)",
-      "Chukenper",
-      "The Genius Nobita's Airship Amusement Park",
-      "Doraemon in North America",
-      "Doraemon in the United Kingdom",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga",
-      "Category:Weapon Gadgets"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/b/b1/Wrestling_Killer.jpg/revision/latest/scale-to-width-down/350?cb=20150312054900\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Wrestling Killer Z (gadget)",
-    "jp_name": "ころばし屋Z Korobashiya Zetto",
-    "function": "The overal appearance of Wrestling Killer Z remains almost the same as Wrestling Killer, with little noticeable changes to its clothing. It has purple sunglasses, hot pink hat, purple coat and Z letter on its white suit.",
-    "appears_in": [
-      "Category:Weapon Gadgets",
-      "Category:Robot Gadget",
-      "Air Cannon",
-      "Special:Categories",
-      "Category:Article stubs",
-      "Category:Gadgets",
-      "Category:Gadgets originated from 1979 series",
-      "Category:Weapon Gadgets",
-      "Category:Robot Gadget"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/f/f6/Wrestling_Killer_Z.jpg/revision/latest/scale-to-width-down/350?cb=20150312091510\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Zanda Claus",
-    "jp_name": "General informationCasual informationOther Details",
-    "function": "Zanda Claus (ザンダクロス), real name Judo (ジュド), is a robot appeared in Doraemon: Nobita and the Steel Troops and its remake Doraemon: Nobita and the New Steel Troops ~Winged Angels~. \nIt was built by Nobita whose real owner is Riruru. When he found a bowling ball at North Pole, the lights on the ball started blinking and many parts of Zanda Claus fell off. With the help of Doraemon, Nobita built the robot and controlled it with one of Doraemon's gadgets. When Nobita found out it was Riruru's robot, he gave it to her. Later, they discovered that the bowling ball (which Nobita named Pippo when it hatched with the help of Doraemon's gadget) was the brain of Zanda Claus. Zanda Claus then helped fight against the Steel Troops.",
-    "appears_in": [
-      "Category:Deceased",
-      "Category:Daichōhen Doraemon Characters",
-      "Category:Movie Characters",
-      "Category:Former Antagonists",
-      "Category:Weapon Gadgets",
-      "Category:Items",
-      "wikipedia:Kunio Okawara",
-      "w:c:gundam",
-      "w:c:gundam:MSN-00100 Hyaku Shiki",
-      "w:c:gundam:MSN-001 Delta Gundam",
-      "wikipedia:Kenji Takaya",
-      "Doraemon: Nobita and the Island of Miracles ~Animal Adventure~",
-      "Special:Categories",
-      "Category:Article stubs",
-      "Category:Robots",
-      "Category:Male Robot",
-      "Category:Deceased",
-      "Category:Daichōhen Doraemon Characters",
-      "Category:Movie Characters",
-      "Category:Former Antagonists",
-      "Category:Weapon Gadgets",
-      "Category:Items"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/c/c1/Chara_image8.png/revision/latest?cb=20200521152216\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Weather Exchange Map",
-    "jp_name": "お天気コーカン地図 Otenki Kōkan Chizu",
-    "function": "The gadget can change the weather for a specific place. You need to circle the place (whose weather you want to change) in order to do so.",
-    "appears_in": [
-      "The Weather Exchange Map",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from 1979 series"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/4/40/Weather_Exchange_Map.PNG/revision/latest/scale-to-width-down/350?cb=20151018072125\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Jacuzzi Hot Spring",
-    "jp_name": "温泉ジャグジー Onsen Jagujī",
-    "function": "The gadget can be attached to a bath tub. It is normally used to create Jacuzzis, but with Nobita's experiment, it can also produce a \"food\" Jacuzzi.",
-    "appears_in": [
-      "Let's Take a Bath in a Delicious Hot Spring!",
-      "Super Mobile Bath 1010",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from 2005 series"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/7/7e/%E6%B8%A9%E6%B3%89%E3%82%B8%E3%83%A3%E3%82%B0%E3%82%B8%E3%83%BC.png/revision/latest/scale-to-width-down/350?cb=20200927053233\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Kaito Set",
-    "jp_name": "怪盗セット Kaitō Setto",
-    "function": "The Kaito Set is technically multiple gadgets, each of which do a unique function.",
-    "appears_in": [
-      "Kaito Nobita Calling On!",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from 2005 series",
-      "Category:Set of Gadgets"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/8/87/Kaito_Set.png/revision/latest/scale-to-width-down/350?cb=20140914083249\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "King's Throne",
-    "jp_name": "王様の椅子 Ōsama no isu",
-    "function": "This gadget is used to make everyone completely unable to ignore the commands of the person sitting in it until they are carried out.",
-    "appears_in": [
-      "King Nobita is Undefiable",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from 2005 series"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/4/48/King_Throne.PNG/revision/latest/scale-to-width-down/350?cb=20151003080253\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Lifeboat",
-    "jp_name": "助け船 Tasukebune",
-    "function": "It is used to detect and find people who need help.",
-    "appears_in": [
-      "The \"Help Me!\" Lifeboat",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from 2005 series"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/7/71/Tasuke_Bune.png/revision/latest/scale-to-width-down/350?cb=20151130023742\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Mecha Maker",
-    "jp_name": "メカ・メーカー",
-    "function": "The Mecha Maker is a gadget from the 2005 anime.\nMecha Maker allows the user to create mechanical contraptions. A blueprint and materials must be inserted for it to work.\nThis was an episode from the Doraemon English Dub that premiered on Disney XD.",
-    "appears_in": [
-      "Mecha Manufacturer",
-      "Special:Categories",
-      "Category:Article stubs",
-      "Category:Gadgets",
-      "Category:Gadgets originated from 2005 series",
-      "Category:Gadgets originated from original manga"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/7/7d/Mecha_Maker.jpg/revision/latest/scale-to-width-down/350?cb=20200710014648\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Memory Bank (gadget)",
-    "jp_name": "メモリーローン Memorīrōn",
-    "function": "This is a gadget that allow the user to exchange their memories for money, as well as for erasing any unwanted memories by paying money in exchange. The user first places the tube section on their forehead for the gadget to scan their memory. Afterwards, the machine displays all the memories/events the user experienced along with the exchange price, with exchange rate varying from person to person depending on what they believe to be good or bad memory. The user then selects which memory to exchange for money, with good memories resulting in payout, while bad memories has the user pay money instead.\nAfter the transaction, the memory is removed from the user's brain. The removed memory can be returned by repeating the process in opposite i.e. pay money to return good memories, receive money for returning bad memories.",
-    "appears_in": [
-      "Memory Bank",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from 2005 series"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/9/97/MC1CZaSd99-1.jpg/revision/latest/scale-to-width-down/350?cb=20200506081024\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Missing Person Stick",
-    "jp_name": "たずね人(びと)ステッキ Tazunebitosutekki",
-    "function": "It use indicate the the direction of a person you want to find. However, if the person you want to find is from another timeline, it will cause confusion.",
-    "appears_in": [
-      "45 Years Later... My Future Self Came to Visit/2005 Anime",
-      "Running Away to the Cretaceous Period",
-      "Nobita Meets the Masked Queen",
-      "Nobita and the Birth of Japan 2016",
-      "Stand by Me Doraemon 2",
-      "Special:Categories",
-      "Category:Stick gadgets",
-      "Category:Gadgets",
-      "Category:Gadgets originated from 2005 series"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/2/21/Missingpersonstick.PNG/revision/latest/scale-to-width-down/350?cb=20191209031812\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Mother Robot: The Substitute Mother Egg",
-    "jp_name": "ハハオヤロボット:  オフクローのたまごHahaoyarobotto: Ofukurō no tama go",
-    "function": "Hahaoyarobotto: Ofukurō no tama goSubstitute Mother Egg (オフクローのたまご) is a Doraemon's gadget.\nUpon activation, it shatters and generates a prosthetic, anthropomorphic mechanical female owl after several seconds. Once the owl hatches, she recognizes the first living thing as her target and become a caretaker for the subject. She functions for 8 hours, after which she returns to her dormant state in the shell",
-    "appears_in": [
-      "But Doraemon Wants a Mom",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from 2005 series"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/a/ad/Mother_Robot_The_Substitute_Mother_Egg.png/revision/latest/scale-to-width-down/350?cb=20150926031301\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Nurse-to-Death Stick",
-    "jp_name": "General InformationFunctionsDetails",
-    "function": "The gadget is shaped like a horsetail. There is a red button which when pressed, emits a light that makes anyone the user's servant.\nWhen the user presses the red button, the person(s) who is exposed to the light will want to serve the user no matter what.",
-    "appears_in": [
-      "I'll Use the Nurse-to-Death Stick on You",
-      "Nobita Nobi",
-      "Doraemon",
-      "Takeshi Gouda",
-      "Suneo Honekawa",
-      "Shizuka Minamoto",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from 2005 series",
-      "Category:Stick gadgets"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/9/9d/Nurse-to-Death_Stick.PNG/revision/latest/scale-to-width-down/350?cb=20200926030035\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Resolution Door",
-    "jp_name": "エイコーノトビラ Eikōno Tobira",
-    "function": "First a user must tell what problems he/she want to solve and then he/she will go inside the door. To solve his/her issue, an instructor who resides inside the door will give him/her difficult tasks to reach his/her goal. The time inside the door is slower than the real world. The user cannot go back to the real world unless he/she reaches his/her main goal. But there are a few exceptions though. If the instructor is unable to withstand whatever makes him feel weak or sick or something else, then the user will be kicked out instantly and not permitted to return.",
-    "appears_in": [
-      "The Resolution Door",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from 2005 series",
-      "Category:Door Gadgets"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/4/40/Resolution_Door.PNG/revision/latest/scale-to-width-down/350?cb=20150926025326\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Robotter",
-    "jp_name": "General InformationFunctions",
-    "function": "(ロボター)The Robotter is one of Doraemon's gadgets that appears in Moai Statues of Easter Island and its manga counterpart.\nThis gadget is a yellow canister with a removable lid that houses multiple pink small spheres.\nThe function of this gadget is to give non-human creatures, human thoughts, feelings, actions, and sometimes even speaking.",
-    "appears_in": [
-      "Doraemon: Nobita's New Great Adventure into the Underworld ~The 7 Magic Users~",
-      "Doraemon: Nobita's Little Star Wars 2021",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from 2005 series"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/3/32/Screenshot_2020-06-06_at_7.19.09_AM.png/revision/latest/scale-to-width-down/350?cb=20200606113151\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Slip 'n Slide Gas",
-    "jp_name": "スぺルガス",
-    "function": "Spray it on someone and the one sprayed on will be able to slide on anything.",
-    "appears_in": [
-      "Getting Fired Up! Dorami's Crash Course in Figure Skating",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from 2005 series",
-      "Category:Dorami`s Gadgets"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/a/a1/Silp_%27n_Slide_Gas.png/revision/latest/scale-to-width-down/350?cb=20140905172613\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Super Flowing Noodles",
-    "jp_name": "スーパー流しそうめん Sūpā Nagashi Sōmen",
-    "function": "This gadget used for flowing noodles from a faraway place to a certain destination.",
-    "appears_in": [
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from 2005 series"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/0/03/Super_Flowing_Noodles.PNG/revision/latest/scale-to-width-down/350?cb=20160213124703\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Super Mobile Bath 1010",
-    "jp_name": "スーパー移(い)動(どう)風(ぶ)呂(ろ)1010 Sūpā idō furo sentō",
-    "function": "Despite its name, the Super Mobile Bath 1010 doesn't offer anything on its own, and must be attached to a bathtub for warp. By pressing the red button, it will display the world map so that the user can choose a country that leads to a place with a beautiful scenery. By pressing the blue button, it returns the user into his/her original place. By pressing the yellow button, it will select a random place and scenery that cannot be stopped unless the user presses the yellow button and the blue button at the same time.",
-    "appears_in": [
-      "The Super Mobile Bathtub 1010",
-      "Jacuzzi Hot Spring",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from 2005 series"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/9/9b/Super_Mobile_Bathtub_1010.png/revision/latest/scale-to-width-down/350?cb=20151228042221\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Train Monopoly Set",
-    "jp_name": "列車用すごろくセット Ressha-yō sugoroku setto",
-    "function": "First the four players must be on the train. The gameplay is the same as Sugoroku except that there are some changes. When a player draws a card, the player must wear the costume stated in the card. To remove the costumes, the train station must be the same as the Japanese character given. For example, Doraemon's card stated that \"Go to station O to ponpokorin\", if the train passes to the station Okanoue station, Doraemon's costume will be removed.",
-    "appears_in": [
-      "Nobita Express and the Mystery of the Train Hunter",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from 2005 series"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/e/ea/Train_Monopoly_Setto.png/revision/latest/scale-to-width-down/350?cb=20151018132614\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Transformation Headband",
-    "jp_name": "変身カチューシャ Henshin Kachūsha",
-    "function": "The gadget gives the wearer girly hairstyle, skirt, pink-cheek, lipstick and long eyelashes. If the wearer tells their fake name while wearing it, the other people know the user with that name. It also hypnotizes people around them into believing the wearer is a girl.",
-    "appears_in": [
-      "I am Nobiko-chan",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from 2005 series"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/4/40/Transformation_Headband_1.png/revision/latest/scale-to-width-down/350?cb=20140814044348\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Underwater Bicycle",
-    "jp_name": "General InformationFunctionsDetails",
-    "function": "It primarily consists of four shades of colour - orange (the metallic body and the headlamp), light violet (the interior of its tires and the seat), light yellow (the exterior of the tire and the pedals), and pink (the handles). Though, its tires lack spokes and is instead a solid metal disc. The headlamp has a screen on its back side which shows the gear controls and displays the currently enabled functions.\nDoraemon's bicycle has been specially modified. Both its handles have a vertical column rising up at the end, and it is a little shorter than Nobita and Shizuka's cycles - likely to adapt to Doraemon's short legs.\nIt has been designed to be ridden under water, as the name suggests. Its design reduces fluid resistance inside the water body. The gadget comes with three primary features. It also comes with a helmet that helps the wearer to breathe under the water.\nIt can be ridden on a slope with full speed by pressing a button at the tip of the handles (at the top in Doraemon's case). It can be ridden slowly in a downward slope as well. Acceleration can be maxified on a plain by increasing its gear level, which displays on the screen behind the headlamp. Lastly, it is built with two air balloons fit on both the tires that can help lift the user to the water surface.",
-    "appears_in": [
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from 2005 series"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/4/46/Underwater_Bicycle.png/revision/latest/scale-to-width-down/350?cb=20201121110108\u0026path-prefix=en"
-  },
-  {
     "eng_name": "Genius Helmet",
     "jp_name": "天才ヘルメット Tensai Herumetto",
-    "function": "When the user wears this gadget, the user can see the structure of a machine well by seeing through the cover. The gadget is used for repairing things and remodeling machines. But this gadget is no use at all if it is not paired up with Technology Gloves as only the gloves can remodel the things.\nIt looks like a welding helmet with a large dark window that shows the user the machines' structure. The rest is in yellow color.",
+    "description": "When the user wears this gadget, the user can see the structure of a machine well by seeing through the cover. The gadget is used for repairing things and remodeling machines. But this gadget is no use at all if it is not paired up with Technology Gloves as only the gloves can remodel the things.\nIt looks like a welding helmet with a large dark window that shows the user the machines' structure. The rest is in yellow color.",
     "appears_in": [
-      "Nobita's Little Star Wars",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga",
-      "Category:Headwear gadgets",
-      "Category:Gadgets originated from movies"
+      "Nobita's Little Star Wars"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/c/c1/GH.jpg/revision/latest/scale-to-width-down/350?cb=20150331022211\u0026path-prefix=en"
   },
   {
-    "eng_name": "Kaitou DX (gadget)",
-    "jp_name": "怪盗デラックス",
-    "function": "The Kaitou DX is a gadget that appears in Doraemon: Nobita's Secret Gadget Museum.\nA user who puts on the bow tie can have the abilities of a Phantom Thief, who were gentlemen/ladies who steals expensive things not for wealth but for adventure.",
-    "appears_in": [
-      "Doraemon: Nobita's Secret Gadget Museum",
-      "wikipedia:Gentleman thief",
-      "wikipedia:",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from movies"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/4/48/Bow.PNG/revision/latest/scale-to-width-down/350?cb=20200317195839\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Liar Liar Liquid",
-    "jp_name": "General InformationFunctionsDetails",
-    "function": "It appeared inside a Dora-robot-shaped box, which when pressed, gives the user a gadget suiting their need at the moment. It is a yellow liquid inside a long-necked glass bottle with white plastic coverings and a cork. The bottom half of the bottle is mysteriously shaped like a \"Pokeball\".\nIt was found by Nobita in the surprise-box, because it was April fools day and Gian and Suneo had played pranks on him, while Nobita wanted to revenge.\nThis is the gadget that made Doraemon come back to Nobita after he left having completed his job. When Tamako asked him if Doraemon has come back yet, Nobita replies with \"no\", while having the effect of the liquid. This made it turn into a lie, and Doraemon came back.",
-    "appears_in": [
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from movies"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/7/79/LiarLiarLiquid.png/revision/latest/scale-to-width-down/350?cb=20201022133549\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Movie Director Robot",
-    "jp_name": "映画監督ロボ Eiga Kantoku Robo",
-    "function": "The Movie Director Robot is a gadget of Doraemon that debuted on Nobita's Space Heroes.\nThe Burger Director can make a movie and produce special effects, can set the stage and make enemies. He also can rewind to the previous time.",
-    "appears_in": [
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga",
-      "Category:Gadgets originated from movies"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/5/5e/Bagakantoku.PNG/revision/latest/scale-to-width-down/350?cb=20150507022211\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Psy Controller",
-    "jp_name": "General InformationFunctions",
-    "function": "The gadget is pretty small. It wouldn't even cover Nobita's entire palm. It has 2 'heads' and a small electronical bridge between 2 heads.One head has 2 opposite red triangles and a big trapezoid shape. The other head has few stripes.\nThis gadget is more likely a chip, judging from how it looks and works.\nThe gadget (apparently) used by just holding the chip in the hand, and it will use the user's brain pulses to control a robot.\nFrom the Movie, The gadget took into effect soon as Nobita held the chip in his hand. When he scratches his head, the robot movement was affected by Nobita's action. Shizuka also used the gadget to perform a ballerina dance on the robot.",
-    "appears_in": [
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from movies"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/d/d9/Robotic_Controlling_Device.png/revision/latest/scale-to-width-down/350?cb=20201030062341\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Storybook Shoes",
-    "jp_name": "General InformationFunctionsDetails",
-    "function": "In the movie, it appears with a regular brown color around and a dark-brown toe cap on it. In the 2005 anime episode, it has a lighter complexion with orange all around, and a light yellow at the toe cap. The anime version also has small tags at the back of each shoe.\nThe size of the shoe in the anime was huge, most likely to fit into Doraemon's feet, as he was the only user of this gadget in it.\nThe wearer of this shoe can jump into any story book and experience its incidents in a realistic manner. The wearer is immune to the elements of the story book, i.e., they cannot drown in water or burn in fire. If taken a look at the pages from outside, the wearer can be seen in the illustrations of the book. This property helped Nobita and Doraemon in the movie, to find out which book Shizuka got stuck in.",
-    "appears_in": [
-      "Take-copter",
-      "Bartering Machine",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from movies"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/6/65/Storybook_Shoes_%28Movie%29.png/revision/latest/scale-to-width-down/350?cb=20200927053909\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Underwater Buggy",
-    "jp_name": "水中バギー Suichū BagīGeneral informationCasual informationRelationshipsOther Details",
-    "function": "Underwater Buggy (水中バギー Suichū Bagī) or simply Buggy (バギー Bagī) is a character as well as a gadget of Doraemon. He appears in the movie Nobita's Monstrous Underwater Castle and in the video game Doraemon: Giga Zombie no Gyakushū.\nBuggy appears as a small red 2-seater vehicle.\nHe is friendly and is kind-hearted.\nAmong the characters, Shizuka is the one who gives the most attention to Buggy's friendliness.\nHe is rather angry Doraemon and always refuses his advice.",
-    "appears_in": [
-      "Category:Daichōhen Doraemon Characters",
-      "Category:Gadgets",
-      "Category:Double-role characters",
-      "Category:Gadgets originated from original manga",
-      "Category:Gadgets originated from movies",
-      "Category:Deceased",
-      "Category:Manga Characters",
-      "Category:Article stubs",
-      "Fuuko",
-      "Sonya",
-      "Special:Categories",
-      "Category:Characters",
-      "Category:Key Characters",
-      "Category:Movie Characters",
-      "Category:Daichōhen Doraemon Characters",
-      "Category:Gadgets",
-      "Category:Double-role characters",
-      "Category:Gadgets originated from original manga",
-      "Category:Gadgets originated from movies",
-      "Category:Deceased",
-      "Category:Manga Characters",
-      "Category:Article stubs"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/4/48/Buggy.png/revision/latest/scale-to-width-down/350?cb=20151006103326\u0026path-prefix=en"
-  },
-  {
     "eng_name": "Girlfriend Catalog (Gadget)",
     "jp_name": "ガルフレンド カタログ",
-    "function": "The Girlfriend Catalog is a gadget that has appeared in the manga and 1979 anime. Doraemon gave it to Nobita after becoming curious of how many girls he would date in his later life and if he would be married to Shizuka. \nThe Girlfriend Catalog spawns out multiple images of future girlfriends one may have in the future.",
+    "description": "The Girlfriend Catalog is a gadget that has appeared in the manga and 1979 anime. Doraemon gave it to Nobita after becoming curious of how many girls he would date in his later life and if he would be married to Shizuka. \nThe Girlfriend Catalog spawns out multiple images of future girlfriends one may have in the future.",
     "appears_in": [
       "Shizuka Minamoto",
       "Girlfriend Catalog",
-      "Gian is Married!?",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
+      "Gian is Married!?"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/9/94/Girlfriend_Catalog_Gadget_%281979_anime%29.JPG/revision/latest/scale-to-width-down/350?cb=20170812103036\u0026path-prefix=en"
   },
   {
     "eng_name": "Go Go Dog",
     "jp_name": "ゴーゴー ドッグ Gō Gō Doggu",
-    "function": "This gadget prevents the target from going to a person's house. The Go Go Dog is useful to repel intruders and catrobbers. Its function is the opposite of the Come Come Cat.",
+    "description": "This gadget prevents the target from going to a person's house. The Go Go Dog is useful to repel intruders and catrobbers. Its function is the opposite of the Come Come Cat.",
     "appears_in": [
-      "Doraemon and Dorami-chan",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga",
-      "Category:Gadgets originating in Doraemon+ (Plus)"
+      "Doraemon and Dorami-chan"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/7/78/Go_Go_Dog.png/revision/latest/scale-to-width-down/350?cb=20151028085134\u0026path-prefix=en"
   },
   {
     "eng_name": "Go-Home Music Box",
     "jp_name": "ゴーホーム.オルゴール Gōhōmuorugōru",
-    "function": "Play the music and the one who listened to the music will be forced to go home.",
+    "description": "Play the music and the one who listened to the music will be forced to go home.",
     "appears_in": [
       "Nobita's Great Battle of the Mermaid King",
-      "Go Home, You Unwanted Guest!",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
+      "Go Home, You Unwanted Guest!"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/9/9f/Go-Home_Music_Box.png/revision/latest/scale-to-width-down/350?cb=20140906130556\u0026path-prefix=en"
   },
   {
-    "eng_name": "God Robot",
-    "jp_name": "神さまロボット Kamisama Robot",
-    "function": "This gadget can grant an individual three wishes if they happen to come across it and show it kindness,  but they must show it kindness because it's in the person's nature and not simply to get wishes. However, if more than one individual shows it kindness together (eg Gian and Suneo), those three wishes must be shared (although, it could be just to teach the two a lesson).\nGod Robot (1979 anime)\nGod Robot Extends His Hand of Love! (2005 anime)",
-    "appears_in": [
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Robots",
-      "Category:Gadgets originated from original manga"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/5/58/DS5mtP_VQAEAp64.jpg/revision/latest/scale-to-width-down/350?cb=20191223083909\u0026path-prefix=en"
-  },
-  {
     "eng_name": "Gone-With-The-Wind Electric Fan",
     "jp_name": "ふきとばし・せん風機 Fukitobashi Sen-fū-ki",
-    "function": "Only push the button, you can blow anything including heavy objects and even buildings.",
+    "description": "Only push the button, you can blow anything including heavy objects and even buildings.",
     "appears_in": [
       "Chapter 17:Test Memorizing Toast",
-      "Memorization Bread for Tests",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
+      "Memorization Bread for Tests"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/4/46/Electric_Fan.PNG/revision/latest/scale-to-width-down/350?cb=20200925034313\u0026path-prefix=en"
   },
   {
+    "eng_name": "Good Mood Warmth Sticker",
+    "jp_name": "ごきげんポカポカシール Goki Gen Pokapokashīru",
+    "description": "Just put this sticker on the body. It'll be able to convert emotional energy into heat. If we become really cheerful, it'll raise our body temperature and make us feel warm and cozy. Otherwise, if our mood took a nose dive, the temperature dropped as well.",
+    "appears_in": [
+      "The Good Mood Warmth Sticker"
+    ],
+    "image_url": "https://static.wikia.nocookie.net/doraemon/images/c/c7/Good_Mood_Warmth_Sticker.PNG/revision/latest/scale-to-width-down/350?cb=20150924090517\u0026path-prefix=en"
+  },
+  {
     "eng_name": "Good Points Choice Board",
     "jp_name": "いいとこ選択しボード Ītoko Sentakushi Bōdo",
-    "function": "It is white at the bottom and light purple at the top. It has a big yellow button at the bottom and the Power bar is red in color, the Looks bar is green and the IQ or Intelligence bar is blue. They also have pictorial representations of Power, Looks and Intelligence at the top (above the bars).\nThe user can increase or decrease his/her own looks (L), power (P) and intelligence (IQ) using this gadget by raising the bar of the specific quality. However, they cannot increase all three at the same time. If one goes up, the other two partially go down.\nThe Power button is also known as the Strength button.",
+    "description": "It is white at the bottom and light purple at the top. It has a big yellow button at the bottom and the Power bar is red in color, the Looks bar is green and the IQ or Intelligence bar is blue. They also have pictorial representations of Power, Looks and Intelligence at the top (above the bars).\nThe user can increase or decrease his/her own looks (L), power (P) and intelligence (IQ) using this gadget by raising the bar of the specific quality. However, they cannot increase all three at the same time. If one goes up, the other two partially go down.\nThe Power button is also known as the Strength button.",
     "appears_in": [
-      "Looks, Strength, or IQ?",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
+      "Looks, Strength, or IQ?"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/1/1b/%E3%81%84%E3%81%84%E3%81%A8%E3%81%93%E9%81%B8%E6%8A%9E%E8%82%A2%E3%83%9C%E3%83%BC%E3%83%89.jpg/revision/latest?cb=20151015124322\u0026path-prefix=en"
   },
   {
     "eng_name": "Gourmet Table Cloth",
     "jp_name": "グルメテーブルかけ Gurumetēburu Kake",
-    "function": "The Gourmet Table Cloth is a very complicated gadget that is able to 'manifest' real food as if it is conjured up from thin air. The user(s) may simply use the cloth by voice command. For example, if Gian says \"Katsudon!\" towards the cloth, then a katsudon will appear in smokes on the cloth. Throughout the series, it has been very convenient for the gang especially when they are having a picnic or camping out.\nKurt Hartman made his own version of the Gourmet Table Cloth, the \"B-Class Gourmet Table Cloth\". Its function is similar to the Gourmet Table Cloth, although due to his inventions mostly hardly considered 'fully effective' or 'decent', it did manifest a pineapple hamburger for Suneo, but it manifested living chickens, a cow as well as a tomato and onion.",
+    "description": "The Gourmet Table Cloth is a very complicated gadget that is able to 'manifest' real food as if it is conjured up from thin air. The user(s) may simply use the cloth by voice command. For example, if Gian says \"Katsudon!\" towards the cloth, then a katsudon will appear in smokes on the cloth. Throughout the series, it has been very convenient for the gang especially when they are having a picnic or camping out.\nKurt Hartman made his own version of the Gourmet Table Cloth, the \"B-Class Gourmet Table Cloth\". Its function is similar to the Gourmet Table Cloth, although due to his inventions mostly hardly considered 'fully effective' or 'decent', it did manifest a pineapple hamburger for Suneo, but it manifested living chickens, a cow as well as a tomato and onion.",
     "appears_in": [
       "Chapter 1: A Partial Gourmet Table",
       "The Gourmet Table Cloth",
@@ -703,17 +77,14 @@
       "I'm Mini Doraemon",
       "Nobita and the Birth of Japan 2016",
       "Nobita's Space Heroes",
-      "Nobita's Dorabian Nights",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
+      "Nobita's Dorabian Nights"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/1/13/Gourmet_Table_Cloth.PNG/revision/latest/scale-to-width-down/350?cb=20150831102237\u0026path-prefix=en"
   },
   {
     "eng_name": "Gravity Paint (gadget)",
     "jp_name": "重力ペンキ Jūryoku Penki",
-    "function": "When painted on a material, particularly a wall, a person who steps or walks on the material will not fall because the portion painted portion is not affected by gravity. The paint takes roughly 2 minutes to dry completely on its own.\nApparently, the paint's gravitational effects only takes place when it has already dried when painted.",
+    "description": "When painted on a material, particularly a wall, a person who steps or walks on the material will not fall because the portion painted portion is not affected by gravity. The paint takes roughly 2 minutes to dry completely on its own.\nApparently, the paint's gravitational effects only takes place when it has already dried when painted.",
     "appears_in": [
       "Chapter 072:Gravity Paint",
       "The Gravity Paint",
@@ -721,71 +92,74 @@
       "The New Nobita's Great Demon ~Peko and the Exploration Party of 5~",
       "Doraemon: New Nobita's Great Demon ~Peko and the Exploration Party of 5~",
       "Doraemon: Nobita's Treasure Island",
-      "Stand by Me Doraemon 2",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
+      "Stand by Me Doraemon 2"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/f/ff/Gravity_Paint.PNG/revision/latest/scale-to-width-down/350?cb=20200629093902\u0026path-prefix=en"
   },
   {
     "eng_name": "Guard Dog Bank",
     "jp_name": "番犬貯金箱 Banken Chokin-bako",
-    "function": "The gadget looks like a small brown dog having a slot at the place of it's eyes. It wears blue belt around it's neck having yellow spikes on it. Four of it's teeth are visible even when it's mouth is closed.",
+    "description": "The gadget looks like a small brown dog having a slot at the place of it's eyes. It wears blue belt around it's neck having yellow spikes on it. Four of it's teeth are visible even when it's mouth is closed.",
     "appears_in": [
-      "The Human Piggy Bank",
       "The Human Piggy Bank",
       "Doraemon",
       "Nobita Nobi",
       "Puzzle Bank",
-      "Hypnosis Bank",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
+      "Hypnosis Bank"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/a/a8/Puppybank.png/revision/latest/scale-to-width-down/350?cb=20140318004945\u0026path-prefix=en"
   },
   {
+    "eng_name": "Guard Robot",
+    "jp_name": "ガードロボット Gādorobotto",
+    "description": "It acts as a bodyguard shooting laser beams to those who come nearby other than the person targeted to protect. However, it is unable to protect the person from aliens as the aliens were getting closer to Shizuka and when it tried to scare them away, the aliens were able to fight back.",
+    "appears_in": [
+      "Shizuka's Open-Air Space Bath",
+      "Nobita's Ebi Fry"
+    ],
+    "image_url": "https://static.wikia.nocookie.net/doraemon/images/5/54/Guard_Robot.PNG/revision/latest/scale-to-width-down/350?cb=20160224112137\u0026path-prefix=en"
+  },
+  {
     "eng_name": "Guardian Paper",
     "jp_name": "まもり紙 Mamorigami",
-    "function": "You must attract the paper's attention by clapping your hands (like the Shinto people praying) three times. The paper will guard you.\nThe opposite gadget is Pestilence Paper.",
+    "description": "You must attract the paper's attention by clapping your hands (like the Shinto people praying) three times. The paper will guard you.\nThe opposite gadget is Pestilence Paper.",
     "appears_in": [
-      "wikipedia:Guardian angel",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
+      "wikipedia:Guardian angel"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/0/0f/Guardian_Paper.PNG/revision/latest/scale-to-width-down/350?cb=20160626145825\u0026path-prefix=en"
   },
   {
     "eng_name": "Guidance Angel",
     "jp_name": "ミチビキエンゼル",
-    "function": "In the Japanese episodes, this gadget is voiced by Keiko Yokozawa and Mayumi Tanaka in the 1979 series and Yoshiko Kamei in the 2005 series. It was voiced by Wendee Lee in the English dub of the 2005 series.\nThe Guidance Angel offers guidance to their wearer. They always tell them the best thing to do, with the doll itself have the power to predict the future. Although its guidance always saves the wearer from danger or trouble, the doll can be a 'control freak'. For example, the good guidance it can give is when how to swing or to let the ball pass when Nobita is playing baseball. The other example is the bad guidance that tells Nobita to study instead of helping Doraemon find his lost screw.\nThe Guidance Angel is a good consultant, but it is a control freak. Because it can predict the future, it is often very snobbish about its knowledge. Its opinions are very selfish, only cares about the person's well being (in terms of success in life) instead of their morality.\nThe Guidance Angel is one of the \"Aids (たすける) Gadgets\" in the game. It cost only 1 Bell Point, the cheapest to use amongst the other. It shows the proper path for the player by pointing out the way. When an item is spotted, it will fly towards it, prompting the player to pick them up. If the player is ignoring it and/or going the other way around, the Guidance Angel will start hitting either Doraemon or Nobita angrily. Note that it does not deal damage to either Nobita or Doraemon.\nUnlike in the series, the Guidance Angel in this game flies around, and only actives for a while.\nThe Guidance Angel is listed under number 55 out of 61 gadgets in the game.",
+    "description": "In the Japanese episodes, this gadget is voiced by Keiko Yokozawa and Mayumi Tanaka in the 1979 series and Yoshiko Kamei in the 2005 series. It was voiced by Wendee Lee in the English dub of the 2005 series.\nThe Guidance Angel offers guidance to their wearer. They always tell them the best thing to do, with the doll itself have the power to predict the future. Although its guidance always saves the wearer from danger or trouble, the doll can be a 'control freak'. For example, the good guidance it can give is when how to swing or to let the ball pass when Nobita is playing baseball. The other example is the bad guidance that tells Nobita to study instead of helping Doraemon find his lost screw.\nThe Guidance Angel is a good consultant, but it is a control freak. Because it can predict the future, it is often very snobbish about its knowledge. Its opinions are very selfish, only cares about the person's well being (in terms of success in life) instead of their morality.\nThe Guidance Angel is one of the \"Aids (たすける) Gadgets\" in the game. It cost only 1 Bell Point, the cheapest to use amongst the other. It shows the proper path for the player by pointing out the way. When an item is spotted, it will fly towards it, prompting the player to pick them up. If the player is ignoring it and/or going the other way around, the Guidance Angel will start hitting either Doraemon or Nobita angrily. Note that it does not deal damage to either Nobita or Doraemon.\nUnlike in the series, the Guidance Angel in this game flies around, and only actives for a while.\nThe Guidance Angel is listed under number 55 out of 61 gadgets in the game.",
     "appears_in": [
-      "The Guidance Angel",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga",
-      "Category:Antagonists"
+      "The Guidance Angel"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/2/2e/Guidance_Angel.png/revision/latest/scale-to-width-down/350?cb=20140905190744\u0026path-prefix=en"
   },
   {
     "eng_name": "Guiding Machine",
     "jp_name": "みちび機",
-    "function": "When the button is pressed, a fortune comes out to tell one what they should do. By following the fortune precisely, the best outcome will come forth toward the user.",
+    "description": "When the button is pressed, a fortune comes out to tell one what they should do. By following the fortune precisely, the best outcome will come forth toward the user.",
     "appears_in": [
-      "Something's Gonna Occur at 7 o'clock",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
+      "Something's Gonna Occur at 7 o'clock"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/0/0f/Guidingki.jpg/revision/latest/scale-to-width-down/350?cb=20150807090736\u0026path-prefix=en"
   },
   {
+    "eng_name": "Gulliver Beam Light",
+    "jp_name": "ガリバー光線電灯",
+    "description": "The Gulliver Beam Light has the same functions as both the Big Light and Small Light. It has two buttons: one is red and the other is blue. By pressing the red button it can enlarge humans and/or objects and the blue does the opposite, it shrinks things.",
+    "appears_in": [
+      "Rats Are As Weak As Cats",
+      "Rats Are As Weak As Cats"
+    ],
+    "image_url": "https://static.wikia.nocookie.net/doraemon/images/4/41/015_8.jpg/revision/latest?cb=20170130141004\u0026path-prefix=en"
+  },
+  {
     "eng_name": "Gulliver Tunnel",
     "jp_name": "ガリバートンネル",
-    "function": "To become small, the user must go through the tunnel, they will remain small until they go through the tunnel again to become big. However, if the user is going through the big entrance of the tunnel, they will become smaller and possibly be blown by the wind, as Doraemon stated.",
+    "description": "To become small, the user must go through the tunnel, they will remain small until they go through the tunnel again to become big. However, if the user is going through the big entrance of the tunnel, they will become smaller and possibly be blown by the wind, as Doraemon stated.",
     "appears_in": [
       "Dream Town, Nobita Land",
       "Stand by Me Doraemon",
@@ -794,387 +168,8 @@
       "The Nobi Family's Giant Tunafish",
       "Fallen Leaves and Jaiko",
       "Small Light",
-      "Kaitou DX",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
+      "Kaitou DX"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/9/98/Gulliver_Tunnel.jpg/revision/latest/scale-to-width-down/350?cb=20190701014318\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Happiness Cards",
-    "jp_name": "しあわせトランプ",
-    "function": "It has 53 cards. Any wish of the user will come true while holding it. However, after using 52 cards leaving the joker everything will go wrong with the holder. In brief, the user will get several bad things instead. Giving it to someone can get rid of them, but if the user throws away it will come flying back to him/her.",
-    "appears_in": [
-      "The Happiness Cards",
-      "The Fearsome Happiness Cards",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/a/a8/Happy_Cards.jpg/revision/latest?cb=20150823085205\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Helping Hat",
-    "jp_name": "タスケテ帽 Tasukete Bō",
-    "function": "The Helping Hat has an antennae that detects the nearest person in trouble and guides its user to them. It seems to have a set range.\nThe Helping Hat is Shizuka's second gadget as an Assist Character. When used, Shizuka assumes her 'Magical Girl Shizuru' persona, flying around Doraemon and Nobita occasionally attacking enemies with her syringe that turns them instantaneously into either Hearts(for current health), or Dorayaki(extra life). If the current character(either Doraemon or Nobita) fell down into a pit, Shizuka will save them by bringing them up. The player may control Shizuka carrying the current character for a few seconds, that is, until she lets go and she returns to the Secret Base screen. When saving the current character, Nobita or Doraemon is completely invulnerable.\nWhen using this gadget, Shizuka cannot be dispatched via traps or pits because she is flying and virtually invulnerable. Practically, Shizuka used all three gadgets in the episode, the Inanimate Object Hypnotizing Megaphone, the Dress Up Camera and the Helping Hat itself.\nThe Helping Hat is listed under number 33 out of 61 gadgets in the game.",
-    "appears_in": [
-      "Magical Girl Shizu-chan",
-      "Thank God for the Prison Break",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga",
-      "Category:Headwear gadgets"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/4/44/Helping_Hat.jpg/revision/latest/scale-to-width-down/350?cb=20190630111454\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Home-Ec Apron",
-    "jp_name": "家庭科エプロソ",
-    "function": "The gadget is nothing more than a normal apron in most physical properties, other than its titular enhancement - namely a significant boost to the user's household work proficiency. The item can also be disabled by mechanical faults and is prone to weathering.",
-    "appears_in": [
-      "Winning Back Shizuka-chan (Part 1)",
-      "Winning Back Shizuka-chan (Part 2)",
-      "The Fear of Jaiko's Curry",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/3/3b/Home-Ec_Apron.png/revision/latest/scale-to-width-down/350?cb=20140906114501\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Horizon Tape",
-    "jp_name": "地平線テープ Chiheisen Tēpu",
-    "function": "It can be used to create an endless huge area that clearly shows the land meeting the sky i.e. the horizon. First, the user sticks one end of the tape to one side of the room and the other end to the other side. The stretched tape must now be facing a wall, and instead of the wall a large area of ground will appear where the horizon can be clearly seen. \nWarning. if you break this tape inside the horizon area. you will be trapped in the horizon area forever!.",
-    "appears_in": [
-      "The Horizon in Nobita's Room",
-      "Doraemon: Nobita's Chronicle of the Moon Exploration",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/0/0c/Horizon_tape.jpg/revision/latest?cb=20150911095723\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Human Manufacturing Machine",
-    "jp_name": "人間製造機 Ningen seizō ki",
-    "function": "Human Manufacturing Machine is a gadget owned by Doraemon. It is one of the banned gadgets.\nIt can create humans (manga \u0026 1979 anime) and other creatures (2005 anime). But the creatures made with it are mutants.",
-    "appears_in": [
-      "Chapter 131:Human Manufacturing Machine",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/4/48/Human_Manufacturing_Machine.PNG/revision/latest/scale-to-width-down/350?cb=20160330130553\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Human Piggy Bank Maker",
-    "jp_name": "人間貯金箱製造機 Ningen chokin-bako seizō ki",
-    "function": "This gadget is used to make a piggy bank from a human. Just enter the code into the gadget and navigate it to the target.",
-    "appears_in": [
-      "The Human Piggy Bank",
-      "Lawnmower Fish",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/8/87/Human_Piggy_Bank_Maker.PNG/revision/latest/scale-to-width-down/350?cb=20151013020423\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Human Steam Engine Set",
-    "jp_name": "人間機関草 Ningen Kikan-sō",
-    "function": "The user places a smokestack on their head and uses coal-shaped candy after that drinking enough water to gain the speed and torque of a steam train.",
-    "appears_in": [
-      "Chapter 138:Human Engine",
-      "Doraemon's 100 Year Time Capsule",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/4/49/Human_Steam_Engine_.PNG/revision/latest/scale-to-width-down/350?cb=20201024071758\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Hustler",
-    "jp_name": "ハッスルねじ巻き",
-    "function": "In Movies:Stand by Me DoraemonDoraemon: Nobita's Earth SymphonyIf one put this on his/her back and wind the screw, his/her movement will be quicker and will be able to move smoothly.",
-    "appears_in": [
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/b/bb/Hustler_anime.png/revision/latest?cb=20210731151312\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Hypnosis Bank",
-    "jp_name": "さいみん貯金箱 Saimin Chokin-bako",
-    "function": "This gadget is like a piggy bank whose shape looks like a gas cylinder having a popped out flexible and stretchable hand at the top of it. The body of this gadget is metallic and is maroon in color. It consists of an eye having greenish pupil and a slot. The popped out hand has a glove on it.",
-    "appears_in": [
-      "The Human Piggy Bank",
-      "The Human Piggy Bank",
-      "Doraemon",
-      "Nobita Nobi",
-      "Puzzle Bank",
-      "Guard Dog Bank",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/2/23/Hypnobank.png/revision/latest/scale-to-width-down/350?cb=20140318004916\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Image Light Cap (gadget)",
-    "jp_name": "イメージライトキャップ Imēji Raito Kyappu",
-    "function": "If someone puts the cap on and points it at an incident that is happening at the moment, whatever is happening will change and instead turn into what the user thinks will happen, not what actually would have happened.",
-    "appears_in": [
-      "Image Light Cap",
-      "Suneo is the Ideal Big Brother",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga",
-      "Category:Headwear gadgets"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/4/4e/Imagelightcap2005.jpg/revision/latest?cb=20150621034608\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Imitation Dummy",
-    "jp_name": "人真似ロボット Hitomane Robotto",
-    "function": "The Imitation Dummy may copy a person's appearance and other aspects on command. It may function as a substitute for that person. Its method of imitation is similar to mimicry, as they tend to be more exaggerated.",
-    "appears_in": [
-      "Chapter 12:Operation - Propose",
-      "The Proposal 13 Years Ago",
-      "There are 1000 Gians",
-      "Copy Robot",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/7/78/Imitation_Robot.jpg/revision/latest/scale-to-width-down/350?cb=20190701014320\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Imprinting Egg",
-    "jp_name": "刷りこみたまご",
-    "function": "In Movie:Stand by Me DoraemonThe user will need to put a person inside the gadget. After 15 minutes, he/she will be in love with the first person he/she encounters first. To undo this effect, the person must have a fishbowl-like gadget over his/her head.\nWhen Nobita said that Dekisugi cannot be beaten through Doraemon's gadgets, Doraemon immediately picks up the Imprinting Egg. Doraemon explained to Nobita about Imprinting that when the eggs hatch, the first thing the hatchling sees will consider as their mother. It was similar to the gadget; after 15 minutes he/ she will be in love with the first person he/ she encounters. Nobita tries to bring this but it ended when Gian accidentally goes inside the gadget and being love-struck with the first person he encounters, which is Suneo. Nobita and Doraemon tries again but failed again when Dekisugi fell in the Anywhere Hole that is connected from Shizuka's front door through Nobita's room. Even worse, Dekisugi confessed his feelings for Shizuka and he doesn't want to use a gadget to make her reciprocate.",
-    "appears_in": [
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/2/2f/Imprintingegganimever.jpg/revision/latest?cb=20150508005404\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Infinity Lasso",
-    "jp_name": "なげ投げ縄 Nage Nage Nawa",
-    "function": "The Infinity Lasso is one of Doraemon's gadgets.\nThrow the lasso and it will catch whatever the user wants, the lasso can even make a turn if needed.",
-    "appears_in": [
-      "A Visitor from the Country of the Future/U.S. English dub",
-      "Running Away to the Cretaceous Period",
-      "Doraemon's 100 Year Time Capsule",
-      "The Super Mobile Bathtub 1010/2005 Anime",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/d/d4/Infinitylasso.PNG/revision/latest/scale-to-width-down/350?cb=20191207065751\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Instant Pitfall",
-    "jp_name": "即席落とし穴 Sokuseki Otoshiana",
-    "function": "It is used to create a pitfall, which is basically something like a hole in the ground used for hiding. In the movie Nobita and the Steel Troops, it is used by Doraemon, Nobita, Gian and Suneo to protect themselves from the Steel Troops.",
-    "appears_in": [
-      "Nobita and the Steel Troops",
-      "Nobita and the Island of Miracles ~Animal Adventure~",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/1/13/Instant_Pitfall.PNG/revision/latest/scale-to-width-down/350?cb=20151024082622\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Instant Tree",
-    "jp_name": "インスタントツリー, Insutanto Tsurī",
-    "function": "The Instant Tree is used for Christmas and can replace a typical Christmas tree. In order to make it function, one must pour hot water on the soil, and it will then start to grow into a Christmas tree.\n\u003ctabber\u003e\n|-|2005 anime=",
-    "appears_in": [
-      "Chapter 72:Gravity Paint",
-      "Gravity Paint",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/8/85/Instant_Tree_Title_Card_%28Gravity_Paint_2005_episode%29.png/revision/latest/scale-to-width-down/350?cb=20141125041719\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Invisible Cape",
-    "jp_name": "透明マント Tōmei Manto",
-    "function": "Use the cape and cover something and the thing, along with the cape itself, will turn invisible.",
-    "appears_in": [
-      "Chapter 8:Chin Up to the Ancestors",
-      "A Visitor from the Country of the Future",
-      "Stand by Me Doraemon",
-      "Nobita's Space Heroes",
-      "Jaiko and Dorami Have Boyfriends!?",
-      "Battle! Cat-Model Robots VS Dog-Model Robots",
-      "Shoes to Dance According to the Type of Music",
-      "Who is the Mask of Academic?",
-      "Stand by Me Doraemon",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/6/6b/Invisible_Cape.png/revision/latest/scale-to-width-down/350?cb=20140905122821\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Jack-In-The-Box Stick",
-    "jp_name": "びっくり箱ステッキ Bikkuribako Sutekki",
-    "function": "Any type of boxes or containers touched by the Stick will become a Jack-in-the-Box containing scary monsters",
-    "appears_in": [
-      "Lucky Mambo",
-      "The Jack in the Box Stick",
-      "Chapter 293: Jack-In-The-Box Stick",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga",
-      "Category:Stick gadgets"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/2/2f/Jack-in-the-box_Stick.PNG/revision/latest/scale-to-width-down/350?cb=20150830033058\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Japan Standard Calendar",
-    "jp_name": "日本標準カレンダー Nippon Hyōjun Karendā",
-    "function": "One should use the red sticker and paste it on the day the user wants to have the holiday. Then, write down what the holiday is called and the entire Japanese calendar will be changed to match that of the gadget. The entirety of Japan will then follow the new national day(s) on their calendars. For example, Nobita wrote \"Nap Day\" and all the people in Japan took a nap. One can revert its effect by taking off the sticker.",
-    "appears_in": [
-      "The Lazy Day",
-      "Takeshi's Bum-Ba-Dum Birthday!",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/5/5d/Japan_Standard_Calendar.png/revision/latest/scale-to-width-down/350?cb=20140914143853\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Justice Rope",
-    "jp_name": "せいぎロープ　Sei gi rōpu",
-    "function": "Justice Ropes are contained in a jar and are green in color. In their mature state, Justice Ropes become green serpentine creatures with a single eye on their front.\nThis gadget punishes people who do wrong things by tying them up pretty badly. This gadget won't tolerate even small things such as lying! (Like when Shizuka lied in this episode) If you are not careful while using this gadget, it just may tie you up for something as small as not throwing trash in the dustbin. It is very strict. (Literally and figuratively.)",
-    "appears_in": [
-      "Special:Categories",
-      "Category:Article stubs",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/4/4a/63.jpg/revision/latest?cb=20170514123448\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Kesshin Concrete",
-    "jp_name": "ケッシンコンクリート Kesshinkonkurīto",
-    "function": "This gadget is used to make a decision and won't stop after the decision is reached.",
-    "appears_in": [
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/e/e3/Kesshin_Concrete.PNG/revision/latest/scale-to-width-down/350?cb=20151016090154\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Room Guard Set",
-    "jp_name": "ルームガードセット Rūmugādosetto",
-    "function": "The contents of a set are as follows:\nOnce used, the gadget will lock up the room, with the doorway set with \"Password Identification Lock\" being the only entrance following the password's declaration. Once in the room, the user can exit through the other entrance(s) such as windows, but can only re-enter through the doorway with \"Password Identification Lock\". Other gadgets such as \"Pass Loop\" cannot be used to enter the room, as the gadget nullifies their effect.\nIn addition, according to Doraemon in Nobita's Fried Shrimp, the gadget runs on batteries and thus will cease to function once the batteries have expired, allowing the person(s) that doesn't know the password to safely enter the room.",
-    "appears_in": [
-      "Chapter 21: Set The Room Guard",
-      "Set The Room Guard",
-      "Set The Room Guard/2005 Anime",
-      "Nobita's Fried Shrimp",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga",
-      "Category:Set of Gadgets",
-      "Category:Gadgets originating in Doraemon+ (Plus)"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/5/51/Room_Guard_Set.PNG/revision/latest/scale-to-width-down/350?cb=20160224110254\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Substitution Sticker (Gadget)",
-    "jp_name": "代用シール Daiyō Shīru",
-    "function": "The stickers allow their user to substitute an item for another by writing that object's name on the sticker, and applying the sticker to an item that they want to \"substitute\". The item's use is not limited to just objects, and can also be used on buildings, or even people. If the sticker falls off the effect will end.",
-    "appears_in": [
-      "Chapter 4: Substitute Stickers",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga",
-      "Category:Gadgets originating in Doraemon+ (Plus)",
-      "Category:Sticker gadgets"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/4/49/Substitution_Sticker.jpg/revision/latest/scale-to-width-down/350?cb=20190701020247\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Mole Gloves",
-    "jp_name": "もぐら手袋 Mogura tebukuro",
-    "function": "The gloves are mostly in color with the mix of green on the sharp parts. It looks very easy to wear and is large and can fit anyone's hands easily. \nThis gadget used to make hole in the ground or create underpass. This gadget can dig the deepest holes and cut through the ground like butter.",
-    "appears_in": [
-      "Nobita's Space Heroes",
-      "Nobita's New Great Adventure into the Underworld – The Seven Magic Users",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga",
-      "Category:Glove gadgets"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/0/07/Mole_Gloves.PNG/revision/latest/scale-to-width-down/350?cb=20151011091637\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Super Gloves",
-    "jp_name": "スーパー手袋",
-    "function": "Super Gloves allow the user to perform various physical activities with increased strength, similar to Superman. The strength is described \"as strong as Hercules\".\nThere is a 1-versus-rivals minigame that hosts this gadget. This mini-game is quite unusual since the soloist has to flee as his opponents hurl rocks at him with the gloves. If a rock touches his body as it falls, the soloist is defeated and the team players win. However, if he manages to escape, the soloist wins.",
-    "appears_in": [
-      "Chapter 8:Chin Up to the Ancestors",
-      "Chapter 50: The Girl from Memory!",
-      "A Girl Like White Lily/2005 Anime",
-      "The Wishing Star/2005 Anime/Original",
-      "Doraemon: Nobita and the Haunts of Evil",
-      "Doraemon: Nobita and the New Steel Troops ~Winged Angels~",
-      "Doraemon: New Nobita's Great Demon ~Peko and the Exploration Party of 5~",
-      "Doraemon: Nobita's Treasure Island",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga",
-      "Category:Glove gadgets"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/f/fe/Super_Gloves.jpg/revision/latest/scale-to-width-down/350?cb=20190701020248\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Technology Gloves",
-    "jp_name": "技術手袋 Gijutsu Tebukuro",
-    "function": "The fingertips of the gloves are capable of turning into a variety of tools, allowing the wearer to modify, reprogram, and upgrade any type of machinery.  \nThe gloves are red with metallic fingers. The gloves have a grey band around the hand. \nIn “Nobita’s Little Space Wars 2021”.",
-    "appears_in": [
-      "Nobita's Little Star Wars",
-      "Doraemon: Nobita's Little Star Wars 2021",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga",
-      "Category:Glove gadgets"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/c/c1/GH.jpg/revision/latest/scale-to-width-down/350?cb=20150331022211\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Good Mood Warmth Sticker",
-    "jp_name": "ごきげんポカポカシール Goki Gen Pokapokashīru",
-    "function": "Just put this sticker on the body. It'll be able to convert emotional energy into heat. If we become really cheerful, it'll raise our body temperature and make us feel warm and cozy. Otherwise, if our mood took a nose dive, the temperature dropped as well.",
-    "appears_in": [
-      "The Good Mood Warmth Sticker",
-      "Special:Categories",
-      "Category:Article stubs",
-      "Category:Sticker gadgets",
-      "Category:Gadgets"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/c/c7/Good_Mood_Warmth_Sticker.PNG/revision/latest/scale-to-width-down/350?cb=20150924090517\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Guard Robot",
-    "jp_name": "ガードロボット Gādorobotto",
-    "function": "It acts as a bodyguard shooting laser beams to those who come nearby other than the person targeted to protect. However, it is unable to protect the person from aliens as the aliens were getting closer to Shizuka and when it tried to scare them away, the aliens were able to fight back.",
-    "appears_in": [
-      "Shizuka's Open-Air Space Bath",
-      "Nobita's Ebi Fry",
-      "Special:Categories",
-      "Category:Gadgets"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/5/54/Guard_Robot.PNG/revision/latest/scale-to-width-down/350?cb=20160224112137\u0026path-prefix=en"
   }
 ]

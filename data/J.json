@@ -2,13 +2,51 @@
   {
     "eng_name": "Jack Bean",
     "jp_name": "ジャック豆 Jakkumame",
-    "function": "It acts like the bean in the traditional fairytale Jack and the Beanstalk.",
+    "description": "It acts like the bean in the traditional fairytale Jack and the Beanstalk.",
     "appears_in": [
-      "Nobita's Jack and the Beanstalk",
-      "Special:Categories",
-      "Category:Article stubs",
-      "Category:Gadgets"
+      "Nobita's Jack and the Beanstalk"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/b/b5/Jack_Bean.PNG/revision/latest/scale-to-width-down/350?cb=20160529062055\u0026path-prefix=en"
+  },
+  {
+    "eng_name": "Jack-In-The-Box Stick",
+    "jp_name": "びっくり箱ステッキ Bikkuribako Sutekki",
+    "description": "Any type of boxes or containers touched by the Stick will become a Jack-in-the-Box containing scary monsters",
+    "appears_in": [
+      "Lucky Mambo",
+      "The Jack in the Box Stick",
+      "Chapter 293: Jack-In-The-Box Stick"
+    ],
+    "image_url": "https://static.wikia.nocookie.net/doraemon/images/2/2f/Jack-in-the-box_Stick.PNG/revision/latest/scale-to-width-down/350?cb=20150830033058\u0026path-prefix=en"
+  },
+  {
+    "eng_name": "Jacuzzi Hot Spring",
+    "jp_name": "温泉ジャグジー Onsen Jagujī",
+    "description": "The gadget can be attached to a bath tub. It is normally used to create Jacuzzis, but with Nobita's experiment, it can also produce a \"food\" Jacuzzi.",
+    "appears_in": [
+      "Let's Take a Bath in a Delicious Hot Spring!",
+      "Super Mobile Bath 1010"
+    ],
+    "image_url": "https://static.wikia.nocookie.net/doraemon/images/7/7e/%E6%B8%A9%E6%B3%89%E3%82%B8%E3%83%A3%E3%82%B0%E3%82%B8%E3%83%BC.png/revision/latest/scale-to-width-down/350?cb=20200927053233\u0026path-prefix=en"
+  },
+  {
+    "eng_name": "Japan Standard Calendar",
+    "jp_name": "日本標準カレンダー Nippon Hyōjun Karendā",
+    "description": "One should use the red sticker and paste it on the day the user wants to have the holiday. Then, write down what the holiday is called and the entire Japanese calendar will be changed to match that of the gadget. The entirety of Japan will then follow the new national day(s) on their calendars. For example, Nobita wrote \"Nap Day\" and all the people in Japan took a nap. One can revert its effect by taking off the sticker.",
+    "appears_in": [
+      "The Lazy Day",
+      "Takeshi's Bum-Ba-Dum Birthday!"
+    ],
+    "image_url": "https://static.wikia.nocookie.net/doraemon/images/5/5d/Japan_Standard_Calendar.png/revision/latest/scale-to-width-down/350?cb=20140914143853\u0026path-prefix=en"
+  },
+  {
+    "eng_name": "Joining Incense",
+    "jp_name": "なかまいりせんこう  naka mairi senkō",
+    "description": "By pressing the button, a smoke will come out of the green tip. Walk around the target person/people with the smoke surrounding them at least once and you will be able to join their group.",
+    "appears_in": [
+      "The Joining Incense",
+      "Sucking Mosquito"
+    ],
+    "image_url": "https://static.wikia.nocookie.net/doraemon/images/7/75/Joining_Incense.PNG/revision/latest/scale-to-width-down/350?cb=20160611082526\u0026path-prefix=en"
   }
 ]

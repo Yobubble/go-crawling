@@ -1,69 +1,78 @@
 [
   {
-    "eng_name": "Nature Plastic Model Series (gadget)",
-    "jp_name": "自然観察プラモシリーズ停止液",
-    "function": "The Nature Plastic Model Series (Nature Observation Plastic Model Series) are a series of gadgets that are used for natural observations. Animals that can lay eggs, such as birds and fish, are the types of plastic models available. Four such plastic models are featured in the episode of the same name.\nEach plastic model comes with a pedestal and two halves of an egg shell. One has to set up the pedestal and place the egg shell on the pedestal for the growth process to occur. Once the plastic model reaches its end of the growth process, it disappears back to the two halves of the egg shell.\nAlternatively, the user can choose to let the plastic model remain at any stage of the growth process by using a Stop Spray on the plastic model. This way, the plastic model will not disappear into the half-eggs and remain at that stage.",
+    "eng_name": "N-S Crest",
+    "jp_name": "エヌ・エス ワッペン",
+    "description": "The N (North) badge is red in color and the S (South) badge in blue in color, representing the two different colors of a magnet. \nWhen two persons wears the same Crest (either N or S), they will repel each other, just like how magnets works. While if one person wears the N Crest while the other wears the S Crest, they'll be attracted to each other. Simply put, the Crest itself cause the person to become a magnetic pole themselves (theoretically speaking).",
     "appears_in": [
-      "Nature Plastic Model Series",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga",
-      "Category:Set of Gadgets"
+      "Chapter 28:N-S Crest",
+      "N-S Badges",
+      "Shizuka's Present is Nobita",
+      "Nobita and the New Steel Troops ~Angel Wings~"
+    ],
+    "image_url": "https://static.wikia.nocookie.net/doraemon/images/6/61/Huy_hi%E1%BB%87u_nam_ch%C3%A2m_N-S.jpg/revision/latest?cb=20150215102359\u0026path-prefix=en"
+  },
+  {
+    "eng_name": "Nature Plastic Model Series (gadget)",
+    "jp_name": "自然観察プラモシリーズナンバーワン \"Shizen kansatsu puramoshirīzu nanbā wan\"停止液",
+    "description": "The Nature Plastic Model Series (Nature Observation Plastic Model Series) are a series of gadgets that are used for natural observations. Animals that can lay eggs, such as birds and fish, are the types of plastic models available. Four such plastic models are featured in the episode of the same name.\nEach plastic model comes with a pedestal and two halves of an egg shell. One has to set up the pedestal and place the egg shell on the pedestal for the growth process to occur. Once the plastic model reaches its end of the growth process, it disappears back to the two halves of the egg shell.\nAlternatively, the user can choose to let the plastic model remain at any stage of the growth process by using a Stop Spray on the plastic model. This way, the plastic model will not disappear into the half-eggs and remain at that stage.",
+    "appears_in": [
+      "Nature Plastic Model Series"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/f/fe/34.jpg/revision/latest?cb=20170514133556\u0026path-prefix=en"
   },
   {
     "eng_name": "Nekojararin",
     "jp_name": "ネコジャラ林 Nekojararin",
-    "function": "By waving this bell you can attract all the cats around you.",
+    "description": "By waving this bell you can attract all the cats around you.",
     "appears_in": [
-      "Crazy Stomach Clock",
-      "Special:Categories",
-      "Category:Article stubs",
-      "Category:Gadgets",
-      "Category:Gadgets originated from 1973 series"
+      "Crazy Stomach Clock"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/0/02/Nekojararin.png/revision/latest/scale-to-width-down/350?cb=20170611212144\u0026path-prefix=en"
   },
   {
     "eng_name": "Nendoron",
     "jp_name": "ネンドロン, Nendoron",
-    "function": "With this gadget you can deform anything.",
+    "description": "With this gadget you can deform anything.",
     "appears_in": [
       "Nendoron Riot",
       "Nendoron Riot",
       "Chapter 089:Nendoron",
-      "Doraemon: Nobita Drifts in the Universe",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originating in Doraemon Color Works",
-      "Category:Gadgets originated from original manga"
+      "Doraemon: Nobita Drifts in the Universe"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/d/df/Nendoronanime.png/revision/latest/scale-to-width-down/350?cb=20170610052208\u0026path-prefix=en"
   },
   {
     "eng_name": "Night Lamp",
     "jp_name": "夜ランプ Yoruranpu",
-    "function": "The function is very simple, This night lamp can change a bright side into dark side by installing it. In the end of episode \"I Will sell the night\" Doraemon has a day lamp it can change a dark side into a bright side.",
+    "description": "The function is very simple, This night lamp can change a bright side into dark side by installing it. In the end of episode \"I Will sell the night\" Doraemon has a day lamp it can change a dark side into a bright side.",
     "appears_in": [
-      "I Will Sell the Night",
-      "Special:Categories",
-      "Category:Gadgets"
+      "I Will Sell the Night"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/d/dc/Night_lamp.png/revision/latest/scale-to-width-down/350?cb=20240904103825\u0026path-prefix=en"
   },
   {
     "eng_name": "Nose Balloons (gadget)",
     "jp_name": "はなバルーン Hana barūn",
-    "function": "Turn the dial to select the desired color, insert the tip into your nose and blow in, then breathe in your nose, and you will make a balloon of the selected color from your nostrils.",
+    "description": "Turn the dial to select the desired color, insert the tip into your nose and blow in, then breathe in your nose, and you will make a balloon of the selected color from your nostrils.",
     "appears_in": [
       "Nose Balloons/1979 Anime",
       "Nose Balloons/2005 Anime",
-      "Shizuka",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originating in Doraemon Color Works"
+      "Shizuka"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/5/53/Nose_Balloons.PNG/revision/latest/scale-to-width-down/350?cb=20160309124923\u0026path-prefix=en"
+  },
+  {
+    "eng_name": "Nurse-to-Death Stick",
+    "jp_name": "General InformationFunctionsDetails",
+    "description": "The gadget is shaped like a horsetail. There is a red button which when pressed, emits a light that makes anyone the user's servant.\nWhen the user presses the red button, the person(s) who is exposed to the light will want to serve the user no matter what.",
+    "appears_in": [
+      "I'll Use the Nurse-to-Death Stick on You",
+      "Nobita Nobi",
+      "Doraemon",
+      "Takeshi Gouda",
+      "Suneo Honekawa",
+      "Shizuka Minamoto"
+    ],
+    "image_url": "https://static.wikia.nocookie.net/doraemon/images/9/9d/Nurse-to-Death_Stick.PNG/revision/latest/scale-to-width-down/350?cb=20200926030035\u0026path-prefix=en"
   }
 ]

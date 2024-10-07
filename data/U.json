@@ -2,57 +2,40 @@
   {
     "eng_name": "Ultra Mixer",
     "jp_name": "ウルトラミキサー",
-    "function": "Stick the two ends at two things. Then turn on the switch and the two things will become one. It also works for something that is alive. For example, Doraemon and Nobita fused to make Nobi-emon. Although it was never shown how it is done, but the effect can be reverted.",
+    "description": "Stick the two ends at two things. Then turn on the switch and the two things will become one. It also works for something that is alive. For example, Doraemon and Nobita fused to make Nobi-emon. Although it was never shown how it is done, but the effect can be reverted.",
     "appears_in": [
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
+      "Chapter 119:The Fusion Machine",
+      "Ultra Mixer/1973 Anime"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/3/31/Ultra_Mixer2005_001.png/revision/latest/scale-to-width-down/350?cb=20140929115419\u0026path-prefix=en"
   },
   {
     "eng_name": "Ultra Special Mighty Strong Super Armor",
     "jp_name": "ウルトラ・スペシャルマイティ・ストロングスーパーよろい Urutora supesharumaiti sutorongusūpā yoroi",
-    "function": "It is said to be an invisible gadget which only wise people can see, and wearing this armor can make the user invincible. Only thing is, this gadget doesn't exist, but Nobita and Gian believe otherwise and think they have became invincible with the gadget.",
+    "description": "It is said to be an invisible gadget which only wise people can see, and wearing this armor can make the user invincible. Only thing is, this gadget doesn't exist, but Nobita and Gian believe otherwise and think they have became invincible with the gadget.",
     "appears_in": [
       "The Invincible, Ultra-Special-Mighty-Strong-Super Armor",
-      "The Emperor's New Clothes!? Super Armor",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
+      "The Emperor's New Clothes!? Super Armor"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/d/da/Ultra_Special_Mighty_Strong_Super_Armor.jpg/revision/latest/scale-to-width-down/350?cb=20190630115538\u0026path-prefix=en"
   },
   {
     "eng_name": "Umatake",
     "jp_name": "ウマタケ",
-    "function": "To ride an Uma-Take, one should probably tame it first. The Uma-Take is a hasty, impatient and aggressive one, so taming it with carrots is a must. Simply put one foot on the 'step', then the Uma-Take itself will jump around and move quickly like a horse. The sound it made are like normal horse footsteps.\nThe Uma-Take is Nobita's first gadget in the game. It allows his to move very fast but in a jumping motion. When using it to jump, pressing the Y button(get off the Uma-Take) will make Nobita jumps, enabling him to reach higher places.\nThe Uma-Take can be used to crush enemies like the Stone Lion and Robo-Mouse by jumping on them. Some enemies cannot be damaged by the Uma-Take, causing Nobita to receive damage instead. The Uma-Take cannot be used underwater.\nThe Uma-Take is listed under number 4 out of 61 gadgets in the game.",
+    "description": "To ride an Uma-Take, one should probably tame it first. The Uma-Take is a hasty, impatient and aggressive one, so taming it with carrots is a must. Simply put one foot on the 'step', then the Uma-Take itself will jump around and move quickly like a horse. The sound it made are like normal horse footsteps.\nThe Uma-Take is Nobita's first gadget in the game. It allows his to move very fast but in a jumping motion. When using it to jump, pressing the Y button(get off the Uma-Take) will make Nobita jumps, enabling him to reach higher places.\nThe Uma-Take can be used to crush enemies like the Stone Lion and Robo-Mouse by jumping on them. Some enemies cannot be damaged by the Uma-Take, causing Nobita to receive damage instead. The Uma-Take cannot be used underwater.\nThe Uma-Take is listed under number 4 out of 61 gadgets in the game.",
     "appears_in": [
       "Chapter 16:Run Run Bamboo Horse",
       "Run, Machine - Horse!",
       "Find the Concentration Machine",
       "The Dora Dora Genpei Battle ~Save Yourself Shizuka-chan!~",
-      "Doraemon (2005 anime)",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
+      "Doraemon (2005 anime)"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/4/4e/Uma-Take.png/revision/latest/scale-to-width-down/350?cb=20140905093012\u0026path-prefix=en"
   },
   {
-    "eng_name": "Underground Clothes",
-    "jp_name": "せんちふく",
-    "function": "It works very similar to a diver's suit, it is one of the two ways that people can \"dive\" underground (the second way is taking the Underground Submarine). Similar to diving in the sea, the \"diver\" needs air to breathe, however, \"divers\" need to collect enough air to breathe underground before \"diving\" as gas bottles are not given with the clothes.\nIt looks a diving suit in the early 20th century. It has a large helmet which covers the whole head, it should be made from metal. The clothes are made from plastic and it is in orange and red.",
-    "appears_in": [
-      "Special:Categories",
-      "Category:Gadgets"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/a/a5/Underground_Clothes.jpg/revision/latest/scale-to-width-down/350?cb=20150330074428\u0026path-prefix=en"
-  },
-  {
     "eng_name": "Underground Exploration Vehicle",
     "jp_name": "General InformationFunctionsDetails",
-    "function": "With this gadget, users will be able to explore the underground. The vehicles can accommodate up to five or six people.",
+    "description": "With this gadget, users will be able to explore the underground. The vehicles can accommodate up to five or six people.",
     "appears_in": [
       "Chapter 079:The Underground Adventure",
       "Exploring the Earth (Part 1)",
@@ -63,28 +46,42 @@
       "Nobita Nobi",
       "Shizuka Minamoto",
       "Takeshi Gouda",
-      "Suneo Honekawa",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga",
-      "Category:Dorami`s Gadgets"
+      "Suneo Honekawa"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/2/20/VideoCapture_20181219-224944.jpg/revision/latest/scale-to-width-down/350?cb=20201027040519\u0026path-prefix=en"
   },
   {
-    "eng_name": "Wishing Star",
-    "jp_name": "ねがい星 Negai Hoshi",
-    "function": "The Wishing Star flies to the person calling it and can grant his wishes. However, it is a subject of misunderstandings. For example, if you wish for a baked sea bream (鯛焼き Taiyaki), the gadget gives you a tire (タイヤ Taiya) and a tree (木 Ki).\nHowever, the Wishing Star was useful on one occasion; Nobita uses it to escape Gian and Suneo and it hides him inside a trash bin.",
+    "eng_name": "Underwater Buggy",
+    "jp_name": "水中バギー Suichū BagīGeneral informationCasual informationRelationshipsOther Details",
+    "description": "Underwater Buggy (水中バギー Suichū Bagī) or simply Buggy (バギー Bagī) is a character as well as a gadget of Doraemon. He appears in the movie Nobita's Monstrous Underwater Castle and in the video game Doraemon: Giga Zombie no Gyakushū.\nBuggy appears as a small red 2-seater vehicle.\nHe is friendly and is kind-hearted.\nAmong the characters, Shizuka is the one who gives the most attention to Buggy's friendliness.\nHe is rather angry Doraemon and always refuses his advice.",
     "appears_in": [
-      "Chapter 183:Wishing Star",
-      "The Wishing Star",
-      "Wishing Star, Shooting Star",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga",
-      "Category:Magical Gadgets",
-      "Category:Useless gadgets"
+      "Fuuko",
+      "Sonya"
     ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/e/eb/Wishing_Star_2005_anime.PNG/revision/latest/scale-to-width-down/350?cb=20151205061416\u0026path-prefix=en"
+    "image_url": "https://static.wikia.nocookie.net/doraemon/images/4/48/Buggy.png/revision/latest/scale-to-width-down/350?cb=20151006103326\u0026path-prefix=en"
+  },
+  {
+    "eng_name": "Upgrade Light",
+    "jp_name": "グレードアップライト Gurēdoappu Raito",
+    "description": "This gadget used to make things become real. For example, if the gadget beam a superhero costume, the costume will turn into a real superhero costume and have a certain ability.\nThe costume that have been beamed:",
+    "appears_in": [
+      "Shizuka",
+      "Gian",
+      "Suneo",
+      "Doraemon",
+      "Rocky Head",
+      "Nobita",
+      "Nobita's Space Heroes"
+    ],
+    "image_url": "https://static.wikia.nocookie.net/doraemon/images/2/25/Upgrade_Light.PNG/revision/latest/scale-to-width-down/350?cb=20150913093219\u0026path-prefix=en"
+  },
+  {
+    "eng_name": "Urashima Candy",
+    "jp_name": "ウラシマキャンディー Urashima Kyandī",
+    "description": "When eaten, all acts of kindness by the user will be rewarded.",
+    "appears_in": [
+      "The Urashima Candy"
+    ],
+    "image_url": "https://static.wikia.nocookie.net/doraemon/images/7/74/Urashima_Candy.jpg/revision/latest/scale-to-width-down/350?cb=20190701020250\u0026path-prefix=en"
   }
 ]

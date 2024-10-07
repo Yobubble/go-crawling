@@ -2,12 +2,9 @@
   {
     "eng_name": "Y Candle",
     "jp_name": "Y(ワイ)ロウ Wai rō",
-    "function": "The user can persuade people to do what the user wants by bribing them.",
+    "description": "The user can persuade people to do what the user wants by bribing them.",
     "appears_in": [
-      "Operation: Y Candle",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
+      "Operation: Y Candle"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/d/db/Y_Candle_587a.jpg/revision/latest/scale-to-width-down/350?cb=20200125175451\u0026path-prefix=en"
   }

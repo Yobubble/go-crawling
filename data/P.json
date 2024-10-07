@@ -1,18 +1,8 @@
 [
   {
-    "eng_name": "Pandana",
-    "jp_name": "パンダナ Pandana",
-    "function": "Pandana may be a combination of Panda and Bandana.",
-    "appears_in": [
-      "Special:Categories",
-      "Category:Gadgets"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/1/1b/Pandana.PNG/revision/latest/scale-to-width-down/350?cb=20160304135918\u0026path-prefix=en"
-  },
-  {
     "eng_name": "Pass Loop",
     "jp_name": "通り抜けフープ Tōrinuke Fūpu",
-    "function": "The Pass Loop can be placed on a wall and it will function akin to a miniature portal.\nPortable Holes",
+    "description": "The Pass Loop can be placed on a wall and it will function akin to a miniature portal.\nPortable Holes",
     "appears_in": [
       "Gian Makes an Appearance on TV",
       "Kaito Nobita Calling On!",
@@ -29,151 +19,113 @@
       "Doraemon: Story of Seasons",
       "Dokodemo Door",
       "Magic Zip (gadget)",
-      "Doraemon Wii: Secret Tool King Tournament",
       "Torinuke Fūpu (minigame)",
-      "Doraemon Wii: Secret Tool King Tournament",
-      "Torinuke Fūpu (minigame)",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
+      "Torinuke Fūpu (minigame)"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/e/e2/Pass_Through_Loop.jpg/revision/latest/scale-to-width-down/350?cb=20190630142242\u0026path-prefix=en"
   },
   {
     "eng_name": "Path-Finding Stick",
     "jp_name": "ミチサキステッキ",
-    "function": "When confused in the cross section, erect the stick and follow whichever side it falls on.\nThe Path-Finding Stick problem is that it can’t detect dangerous things like a bomb.",
+    "description": "When confused in the cross section, erect the stick and follow whichever side it falls on.\nThe Path-Finding Stick problem is that it can’t detect dangerous things like a bomb.",
     "appears_in": [
       "Move Fast, Doraemon! The Galactic Grandprix",
       "Nobita and the Birth of Japan",
-      "Nobita and the Birth of Japan",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga",
-      "Category:Stick gadgets"
+      "Nobita and the Birth of Japan"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/a/a4/Path-Finding.jpg/revision/latest/scale-to-width-down/350?cb=20150310111426\u0026path-prefix=en"
   },
   {
     "eng_name": "Pearl Producing Oyster Case",
     "jp_name": "しんじゅ製造アコヤケース Shinju Seizō Akoya Kēsu",
-    "function": "It used to produce pearl when placed in the water.\nShinju seizō akoyakēsu made up of word Shinju (Pearl), Seizō (Production), Akoya (meaning Akoya pearl oyster), and Kēsu (Case).",
+    "description": "It used to produce pearl when placed in the water.\nShinju seizō akoyakēsu made up of word Shinju (Pearl), Seizō (Production), Akoya (meaning Akoya pearl oyster), and Kēsu (Case).",
     "appears_in": [
       "The Pearl Producing Oyster Case",
-      "Shizuka's Necklace",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
+      "Shizuka's Necklace"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/6/62/Pearl_Oyster_Case.PNG/revision/latest/scale-to-width-down/350?cb=20160531052256\u0026path-prefix=en"
   },
   {
+    "eng_name": "Pebble Hat",
+    "jp_name": "石乙ろぼうし Ishikoro Boushi",
+    "description": "The person who is wearing the hat will be treated like a pebble; unnoticed.",
+    "appears_in": [
+      "Chapter 68: Pebble Hat",
+      "Battle! Cat-Model Robots VS Dog-Model Robots",
+      "Doraemon: Nobita's Great Adventure into the Underworld",
+      "Doraemon: Nobita's Little Star Wars 2021"
+    ],
+    "image_url": "https://static.wikia.nocookie.net/doraemon/images/8/81/Pebble_Hat3.PNG/revision/latest/scale-to-width-down/350?cb=20151016092622\u0026path-prefix=en"
+  },
+  {
     "eng_name": "Peko Peko Grasshopper",
     "jp_name": "ペコペコバッタ Peko Peko Batta",
-    "function": "The Peko Peko Grasshopper will jump into a person's nose to the point of where the target will eventually cry and beg for forgiveness. It may also cause them to be extremely repentful, wishing to forget their past sins and wrongs.\nThe Peko Peko Grasshopper may be distracted out by forcing the host person sneeze it out (generally with Black Pepper).",
+    "description": "The Peko Peko Grasshopper will jump into a person's nose to the point of where the target will eventually cry and beg for forgiveness. It may also cause them to be extremely repentful, wishing to forget their past sins and wrongs.\nThe Peko Peko Grasshopper may be distracted out by forcing the host person sneeze it out (generally with Black Pepper).",
     "appears_in": [
       "Chapter 7:Peko Peko Grasshopper",
-      "The Bow-Bow Grasshopper",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
+      "The Bow-Bow Grasshopper"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/6/61/Bowbowg.jpg/revision/latest?cb=20150512114131\u0026path-prefix=en"
   },
   {
-    "eng_name": "Pestilence Paper",
-    "jp_name": "やくびょ紙 Yakubyogami",
-    "function": "Same as how you do it with Guardian Paper but instead The paper gives pestilence to the one who prayed at it, which is the opposite of the said former gadget.",
-    "appears_in": [
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/f/f8/Pestilence_Paper.png/revision/latest/scale-to-width-down/350?cb=20160907170215\u0026path-prefix=en"
-  },
-  {
     "eng_name": "Pet Cream (gadget)",
     "jp_name": "ペットクリーム",
-    "function": "Apply it on a rock and then wipe it. After that, it will act like a dog and perform behaviors such as barking. Its diet is composed up of sand and water. The harder you wipe it onto a rock, the gentler the pet would be.",
+    "description": "Apply it on a rock and then wipe it. After that, it will act like a dog and perform behaviors such as barking. Its diet is composed up of sand and water. The harder you wipe it onto a rock, the gentler the pet would be.",
     "appears_in": [
-      "The Cute Rock Story",
-      "Special:Categories",
-      "Category:Cream gadgets",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
+      "The Cute Rock Story"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/d/d9/Pet_Cream.png/revision/latest/scale-to-width-down/350?cb=20140906123648\u0026path-prefix=en"
   },
   {
     "eng_name": "Picture Book Entry Shoes",
     "jp_name": "絵本入りこみぐつ Ehon Hairikomi Gutsu",
-    "function": "With the shoes, a person can enter the world inside a story book. But the user must not interfere with characters or objects inside the story or else the story will end up differently.",
+    "description": "With the shoes, a person can enter the world inside a story book. But the user must not interfere with characters or objects inside the story or else the story will end up differently.",
     "appears_in": [
       "A Happy Mermaid Princess",
       "Barging Into Jaiko's Comic Books",
-      "Nobita's Dorabian Nights",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
+      "Nobita's Dorabian Nights"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/5/5e/Picture_Book_Entry_Shoes_2005_anime.PNG/revision/latest/scale-to-width-down/350?cb=20151019054408\u0026path-prefix=en"
   },
   {
-    "eng_name": "Pinocchio's Flower",
-    "jp_name": "ピノキオの花 Pinokio no hana",
-    "function": "Pinocchio's Flower (Japanese: ピノキオの花 Pinokio no hana) is a gadget owned by Doraemon. It only appeared on the 2005 anime series episode \"The Pinocchio's Flower\".\nIt sprinkles glittery dust on the person's nose. If they lie, then their noses willl grow long like Pinocchio's. If they tell the truth, then it doesn't grow or their noses go back to normal.",
+    "eng_name": "Popcorn Hat",
+    "jp_name": "ポップコーン ハット",
+    "description": "This gadget turns people's anger into heat energy to cook popcorn. When someone is angry, the user can use this hat and put it on whoever is angry. The person's anger will transfer to heat and the hat will pop out popcorn, also causing the person to calm down. Different people's anger makes different flavored popcorn which depends on how often their anger is or based on their own cooking skills such as Gian. Nobita, Suneo's popcorn tastes normal, Nobita's mother's popcorn is pretty spicy, Gian's popcorn tastes like his own stew and other things he cooked, which taste awful, and Kaminari's popcorn is arguably the best popcorn tasted.\nBut if the wearer is angered to the limit, their anger would build up and end up producing a lot a popcorn. But unfortunately, every piece would be burnt to a crisp.\nInterestingly, a different flavor is made on every alternate use in the episode Anger Popcorn.\nShizuka is the only character whose flavour is unknown.",
     "appears_in": [
-      "Special:Categories",
-      "Category:Article stubs",
-      "Category:Gadgets"
+      "Anger Popcorn"
     ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/d/db/Pinocchio%27s_Flower.PNG/revision/latest/scale-to-width-down/350?cb=20160705032326\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Power Fan",
-    "jp_name": "パワーファン",
-    "function": "The Power Fan (パワーファン) is a gadget that makes it's only appearance in Hudson Soft's Doraemon video game. It acts as a weapon that when used, creates solid wind that heads towards a target.\nIt is considered to have power that surpasses the Air Cannon and appears similar to the Festival Fan, though with different kanji and white in color.",
-    "appears_in": [
-      "Special:Categories",
-      "Category:Gadgets"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/7/78/DoraemonFCPowerFanUse.png/revision/latest?cb=20150519002441\u0026path-prefix=en"
+    "image_url": "https://static.wikia.nocookie.net/doraemon/images/1/15/Popcornhat.png/revision/latest/scale-to-width-down/350?cb=20150508054035\u0026path-prefix=en"
   },
   {
     "eng_name": "Pre-reply Post",
     "jp_name": "返事先取りポスト \"Henji sakidori posuto\"",
-    "function": "Write a letter to the person you want to address. You can write any type of letter such as a love letter. After that, put the letter you have written into this post box, You will immediately receive a reply to the person you sent the letter without having to be accepted by that person. \nRemember!. You have to write the compleate address you want to go to, and it must be accompanied by stamp, so that the letter can be received and immediately get recive a reply. Whether a letter is answered or not depends on the person you are writing to.",
+    "description": "Write a letter to the person you want to address. You can write any type of letter such as a love letter. After that, put the letter you have written into this post box, You will immediately receive a reply to the person you sent the letter without having to be accepted by that person. \nRemember!. You have to write the compleate address you want to go to, and it must be accompanied by stamp, so that the letter can be received and immediately get recive a reply. Whether a letter is answered or not depends on the person you are writing to.",
     "appears_in": [
       "How to Get a Reply to a Letter You Haven't Sent",
-      "Special:Categories",
-      "Category:Gadgets"
+      "To Miss Yumeko Nijitani"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/e/e3/Pre_reply_post.jpeg/revision/latest/scale-to-width-down/350?cb=20240912135704\u0026path-prefix=en"
   },
   {
-    "eng_name": "Prohibition Sign",
-    "jp_name": "キンシひょうしき Kinshihyōshiki",
-    "function": "Just put a ban with a marker in the blank place. This will make people can't do the ban.\nIt can be removed using its own pliers, or exposed to wet objects such as rain.",
+    "eng_name": "Pretty People Camera",
+    "jp_name": "めんくいカメラMen kui kamera",
+    "description": "The device is a camera decorated with roses and an eye. This camera likes beautiful, pretty and cute faces; but hates faces that are considered ugly or funny, which it removes from the developed photos.\nThis gadget also have a self-sense.",
     "appears_in": [
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
+      "Chapter 141:Pretty People Camera",
+      "Pretty People Camera/1979 Anime",
+      "Pretty People Camera/2005 Anime"
     ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/a/ad/Prohibition_Sign.PNG/revision/latest/scale-to-width-down/350?cb=20160626143520\u0026path-prefix=en"
+    "image_url": "https://static.wikia.nocookie.net/doraemon/images/0/0d/20190928_081025.jpg/revision/latest/scale-to-width-down/350?cb=20190928071334\u0026path-prefix=en"
   },
   {
     "eng_name": "Puzzle Bank",
     "jp_name": "パズル貯金箱 Pazuru Chokin-bako",
-    "function": "This gadget is like a piggy bank made up of labyrinthine building block puzzle pieces of various shapes and colors. It has a slot at the top of it's face.",
+    "description": "This gadget is like a piggy bank made up of labyrinthine building block puzzle pieces of various shapes and colors. It has a slot at the top of it's face.",
     "appears_in": [
-      "The Human Piggy Bank",
       "The Human Piggy Bank",
       "Doraemon",
       "Hypnosis Bank",
-      "Guard Dog Bank",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
+      "Guard Dog Bank"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/4/44/Puzlebank.png/revision/latest/scale-to-width-down/350?cb=20140318004743\u0026path-prefix=en"
   }

@@ -1,13 +1,132 @@
 [
   {
+    "eng_name": "Illumination Crackers",
+    "jp_name": "イルミネーション クラッカー Iruminēshon Kurakkā",
+    "description": "If someone takes this cracker, the person will glow. And once the user starts glowing, they stay lit up for the entire day.",
+    "appears_in": [
+      "The Great, Twinkling Christmas Plan"
+    ],
+    "image_url": "https://static.wikia.nocookie.net/doraemon/images/8/89/Illumination_Crackers.png/revision/latest/scale-to-width-down/350?cb=20150813032608\u0026path-prefix=en"
+  },
+  {
+    "eng_name": "Image Light Cap (gadget)",
+    "jp_name": "イメージライトキャップ Imēji Raito Kyappu",
+    "description": "If someone puts the cap on and points it at an incident that is happening at the moment, whatever is happening will change and instead turn into what the user thinks will happen, not what actually would have happened.",
+    "appears_in": [
+      "Image Light Cap",
+      "Suneo is the Ideal Big Brother"
+    ],
+    "image_url": "https://static.wikia.nocookie.net/doraemon/images/4/4e/Imagelightcap2005.jpg/revision/latest?cb=20150621034608\u0026path-prefix=en"
+  },
+  {
+    "eng_name": "Imitation Dummy",
+    "jp_name": "人真似ロボット Hitomane Robotto",
+    "description": "The Imitation Dummy may copy a person's appearance and other aspects on command. It may function as a substitute for that person. Its method of imitation is similar to mimicry, as they tend to be more exaggerated.",
+    "appears_in": [
+      "Chapter 12:Operation - Propose",
+      "The Proposal 13 Years Ago",
+      "There are 1000 Gians",
+      "Copy Robot"
+    ],
+    "image_url": "https://static.wikia.nocookie.net/doraemon/images/7/78/Imitation_Robot.jpg/revision/latest/scale-to-width-down/350?cb=20190701014320\u0026path-prefix=en"
+  },
+  {
+    "eng_name": "Infinity Lasso",
+    "jp_name": "なげ投げ縄 Nage Nage Nawa",
+    "description": "The Infinity Lasso is one of Doraemon's gadgets.\nThrow the lasso and it will catch whatever the user wants, the lasso can even make a turn if needed.",
+    "appears_in": [
+      "A Visitor from the Country of the Future/U.S. English dub",
+      "Running Away to the Cretaceous Period",
+      "Doraemon's 100 Year Time Capsule",
+      "The Super Mobile Bathtub 1010/2005 Anime"
+    ],
+    "image_url": "https://static.wikia.nocookie.net/doraemon/images/d/d4/Infinitylasso.PNG/revision/latest/scale-to-width-down/350?cb=20191207065751\u0026path-prefix=en"
+  },
+  {
+    "eng_name": "Insect Pills",
+    "jp_name": "コンチュー丹 Konchū Tan",
+    "description": "It gives the user the power to fly like a butterfly, the power to sting like bees, ants' strength, and a strong body, such as in a hard beetle. It also causes the user to have bug-like behaviors like eating leaves, being afraid of nets and fainting due to bug sprays.\nNobita",
+    "appears_in": [
+      "The Invincible! Insect Pills"
+    ],
+    "image_url": "https://static.wikia.nocookie.net/doraemon/images/c/c4/Insect_Pills.jpg/revision/latest/scale-to-width-down/350?cb=20190625140031\u0026path-prefix=en"
+  },
+  {
+    "eng_name": "Instant Chocolate Maker",
+    "jp_name": "インスタントチョコメーカー Insutanto Choko Mēkā",
+    "description": "When an object is placed on the gadget, the gadget produces a chocolate with the shape of the certain object. The chocolate produced by the gadget is delicious.",
+    "appears_in": [
+      "Serve the Chocolate Nobita"
+    ],
+    "image_url": "https://static.wikia.nocookie.net/doraemon/images/3/36/%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%88%E3%83%81%E3%83%A7%E3%82%B3%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC.png/revision/latest/scale-to-width-down/350?cb=20151203040926\u0026path-prefix=en"
+  },
+  {
     "eng_name": "Instant Copy Machine",
     "jp_name": "インスタントコピー機 Insutantokopī-ki",
-    "function": "The sole function of the Instant Copy Machine is to copy another person. Unlike the Copy Robot, it can make multiple copies of one person.",
+    "description": "The sole function of the Instant Copy Machine is to copy another person. Unlike the Copy Robot, it can make multiple copies of one person.",
     "appears_in": [
-      "Instant Mom",
-      "Special:Categories",
-      "Category:Gadgets"
+      "Instant Mom"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/3/32/Instant_Copy.PNG/revision/latest/scale-to-width-down/350?cb=20240909050236\u0026path-prefix=en"
+  },
+  {
+    "eng_name": "Instant Miniature-Making Camera",
+    "jp_name": "インスタントミニチュアサいぞうカメラInsutantominichuasa i zō kamera",
+    "description": "Snap a picture with this camera, and it will instantly develop a miniature model that looks exactly like what you took a picture of. (Note: This gadget is also as seen in Doraemon \u0026 Tamagotchi!)",
+    "appears_in": [
+      "The City of Dreams, Nobita Land",
+      "Special Effects Ultra Dora-Man",
+      "Chapter 047:Dream Town, Nobita Land",
+      "Doraemon: Nobita's New Dinosaur"
+    ],
+    "image_url": "https://static.wikia.nocookie.net/doraemon/images/2/24/Instant_Miniature-Making_Camera.jpg/revision/latest/scale-to-width-down/350?cb=20190701014321\u0026path-prefix=en"
+  },
+  {
+    "eng_name": "Instant Object Mobile (gadget)",
+    "jp_name": "物体瞬間移動機",
+    "description": "The gadget is a machine that has a screen with a pointer, which serves to indicate what object or person the user wants to bring. It also has a platform where the determined object or person will appear when the user presses and \"O.K.\" button. In both of its appearances, it was used to bring back the toys and manga that Gian had confiscated.",
+    "appears_in": [
+      "Defeat the Bully",
+      "Defeat the Bully",
+      "Defeat the Bully"
+    ],
+    "image_url": "https://static.wikia.nocookie.net/doraemon/images/b/bc/Weapon_08_01.jpg/revision/latest?cb=20170201201907\u0026path-prefix=en"
+  },
+  {
+    "eng_name": "Instant Pitfall",
+    "jp_name": "即席落とし穴 Sokuseki Otoshiana",
+    "description": "It is used to create a pitfall, which is basically something like a hole in the ground used for hiding. In the movie Nobita and the Steel Troops, it is used by Doraemon, Nobita, Gian and Suneo to protect themselves from the Steel Troops.",
+    "appears_in": [
+      "Nobita and the Steel Troops",
+      "Nobita and the Island of Miracles ~Animal Adventure~"
+    ],
+    "image_url": "https://static.wikia.nocookie.net/doraemon/images/1/13/Instant_Pitfall.PNG/revision/latest/scale-to-width-down/350?cb=20151024082622\u0026path-prefix=en"
+  },
+  {
+    "eng_name": "Instant Tree",
+    "jp_name": "インスタントツリー, Insutanto Tsurī",
+    "description": "The Instant Tree is used for Christmas and can replace a typical Christmas tree. In order to make it function, one must pour hot water on the soil, and it will then start to grow into a Christmas tree.\n\u003ctabber\u003e\n|-|2005 anime=",
+    "appears_in": [
+      "Chapter 72:Gravity Paint",
+      "Gravity Paint"
+    ],
+    "image_url": "https://static.wikia.nocookie.net/doraemon/images/8/85/Instant_Tree_Title_Card_%28Gravity_Paint_2005_episode%29.png/revision/latest/scale-to-width-down/350?cb=20141125041719\u0026path-prefix=en"
+  },
+  {
+    "eng_name": "Invisible Cape",
+    "jp_name": "透明マント Tōmei Manto",
+    "description": "Use the cape and cover something and the thing, along with the cape itself, will turn invisible.",
+    "appears_in": [
+      "Chapter 8:Chin Up to the Ancestors",
+      "A Visitor from the Country of the Future",
+      "Stand by Me Doraemon",
+      "Nobita's Space Heroes",
+      "Jaiko and Dorami Have Boyfriends!?",
+      "Battle! Cat-Model Robots VS Dog-Model Robots",
+      "Shoes to Dance According to the Type of Music",
+      "Who is the Mask of Academic?",
+      "Stand by Me Doraemon"
+    ],
+    "image_url": "https://static.wikia.nocookie.net/doraemon/images/6/6b/Invisible_Cape.png/revision/latest/scale-to-width-down/350?cb=20140905122821\u0026path-prefix=en"
   }
 ]

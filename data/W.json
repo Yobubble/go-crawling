@@ -1,34 +1,104 @@
 [
   {
+    "eng_name": "Watermelon Pen",
+    "jp_name": "スイカぺン Suika pen",
+    "description": "Watermelon Pen is Doraemon's gadget.\nBlindfolded Shizuka is splitting watermelons.it used to make anything turn into watermelon.",
+    "appears_in": [
+      "A Watermelon Pen",
+      "Doraemon Is An Exam Student Now!?"
+    ],
+    "image_url": "https://static.wikia.nocookie.net/doraemon/images/a/ab/Watermelon_Pen.PNG/revision/latest/scale-to-width-down/350?cb=20160605020923\u0026path-prefix=en"
+  },
+  {
+    "eng_name": "Weather Exchange Map",
+    "jp_name": "お天気コーカン地図 Otenki Kōkan Chizu",
+    "description": "The gadget can change the weather for a specific place. You need to circle the place (whose weather you want to change) in order to do so.",
+    "appears_in": [
+      "The Weather Exchange Map"
+    ],
+    "image_url": "https://static.wikia.nocookie.net/doraemon/images/4/40/Weather_Exchange_Map.PNG/revision/latest/scale-to-width-down/350?cb=20151018072125\u0026path-prefix=en"
+  },
+  {
     "eng_name": "Werewolf Cream (gadget)",
     "jp_name": "おおかみ男クリーム Ōkami Otoko Kurīmu",
-    "function": "If the user applies this cream on their face, then they will turn into a werewolf whenever they see a round object (like the moon). To remove the effect, simply wipe the cream off the user's face.",
+    "description": "If the user applies this cream on their face, then they will turn into a werewolf whenever they see a round object (like the moon). To remove the effect, simply wipe the cream off the user's face.",
     "appears_in": [
       "The Werewolf Cream",
       "Mama is a Werewolf!?",
-      "Let's Turn Into the Snow Woman on Cold Days!!",
-      "Special:Categories",
-      "Category:Cream gadgets",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
+      "Let's Turn Into the Snow Woman on Cold Days!!"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/f/f2/Werewolf_Cream.jpg/revision/latest/scale-to-width-down/350?cb=20190701021905\u0026path-prefix=en"
   },
   {
+    "eng_name": "What-If Phone Booth",
+    "jp_name": "もしもボックス What-if Box",
+    "description": "The user must enter the booth, take the phone off, then say \"What if ____?\" , then set the phone down. Once this is done, it technically warps the user to an alternate dimension of their current world, while original world and its timeline continue on as usual[1]. Traveling future after using the gadget will result in the user arriving at the same parallel world and not the original world[2], but traveling back to the past will result in the user arriving at the original world prior to the usage of the gadget[3]. \nIt is also possible to revert the machine's effects manually by using it with specific commands.",
+    "appears_in": [
+      "Chapter 187:The \"What if\" Phone Booth",
+      "The What-If Phone Box",
+      "Nobita's Great Adventure into the Underworld",
+      "Doraemon: Nobita's New Great Adventure into the Underworld – The Seven Magic Users",
+      "I'll Be the King of String Finger World",
+      "A World Without Mirrors",
+      "Farewell Nobita",
+      "I am Nobiko (1979 Episode)",
+      "Suneo's Luxuriously Poor Birthday!",
+      "Thank God for the Prison Break",
+      "What If We Turn Day Into Night!?",
+      "w:c:tamagotchi:Doraemontchi"
+    ],
+    "image_url": "https://static.wikia.nocookie.net/doraemon/images/0/06/What-If_Phone_Booth.jpg/revision/latest/scale-to-width-down/350?cb=20190701021906\u0026path-prefix=en"
+  },
+  {
+    "eng_name": "Wishing Star",
+    "jp_name": "ねがい星 Negai Hoshi",
+    "description": "The Wishing Star flies to the person calling it and can grant his wishes. However, it is a subject of misunderstandings. For example, if you wish for a baked sea bream (鯛焼き Taiyaki), the gadget gives you a tire (タイヤ Taiya) and a tree (木 Ki).\nHowever, the Wishing Star was useful on one occasion; Nobita uses it to escape Gian and Suneo and it hides him inside a trash bin.",
+    "appears_in": [
+      "Chapter 183:Wishing Star",
+      "The Wishing Star",
+      "Wishing Star, Shooting Star"
+    ],
+    "image_url": "https://static.wikia.nocookie.net/doraemon/images/e/eb/Wishing_Star_2005_anime.PNG/revision/latest/scale-to-width-down/350?cb=20151205061416\u0026path-prefix=en"
+  },
+  {
     "eng_name": "Woodcutter's Spring (gadget)",
     "jp_name": "きこりの泉 Kikori no Izumi",
-    "function": "Similar to its mythical namesake counterparts, the Woodcutter's Spring will offer a superior counterpart of an inserted item. It then asks the user which item they dropped, and will either return the updated one to them or withdraw the offer depending if they are honest. Regardless, items within its realm can't be retrieved, and each can only be used for up to 5 times.",
+    "description": "Similar to its mythical namesake counterparts, the Woodcutter's Spring will offer a superior counterpart of an inserted item. It then asks the user which item they dropped, and will either return the updated one to them or withdraw the offer depending if they are honest. Regardless, items within its realm can't be retrieved, and each can only be used for up to 5 times.",
     "appears_in": [
       "The Woodcutter's Spring",
       "Doraemon: Nobita's Secret Gadget Museum",
       "Doraemon: Nobita's Secret Gadget Museum",
       "wikipedia:Maria Kawamura",
       "The Woodcutter's Spring",
-      "Hidetoshi Dekisugi",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
+      "Hidetoshi Dekisugi"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/7/7b/Woodcutter%27s_Spring.PNG/revision/latest/scale-to-width-down/350?cb=20150919133054\u0026path-prefix=en"
+  },
+  {
+    "eng_name": "Wrestling Killer (Gadget)",
+    "jp_name": "ころばし屋 Korobashiya",
+    "description": "It appears to be a mini gadget version of a normal hit man. It has some large sunglasses, a large dark green hat and a white suit and a tie underneath his green coat. His hands and legs are very small. His hands are similar to Doraemon's. \nThe user pays 10 Yen(10 cents in US), declare a name of his/her target. This gadget will then knock that target up for 3 times using it Mini Air Cannon. Once the order has been declared, the Gadget will continuously chase it target until the target has been knock up 3 times. However, the order can be cancelled by paying 100 Yen(1 dollar in US).  \nYou can input the coins through it's back.",
+    "appears_in": [
+      "Wrestling Killer",
+      "Wrestling Killer Z (gadget)",
+      "Doraemon: Nobita's Secret Gadget Museum",
+      "Nobita and the Robot Kingdom",
+      "Nobita Express and the Mystery of the Train Hunter",
+      "Wrestling Killer Z (gadget)",
+      "Chukenper",
+      "The Genius Nobita's Airship Amusement Park",
+      "Doraemon in North America",
+      "Doraemon in the United Kingdom"
+    ],
+    "image_url": "https://static.wikia.nocookie.net/doraemon/images/b/b1/Wrestling_Killer.jpg/revision/latest/scale-to-width-down/350?cb=20150312054900\u0026path-prefix=en"
+  },
+  {
+    "eng_name": "Wrestling Killer Z (gadget)",
+    "jp_name": "ころばし屋Z Korobashiya Zetto",
+    "description": "The overal appearance of Wrestling Killer Z remains almost the same as Wrestling Killer, with little noticeable changes to its clothing. It has purple sunglasses, hot pink hat, purple coat and Z letter on its white suit.",
+    "appears_in": [
+      "Air Cannon"
+    ],
+    "image_url": "https://static.wikia.nocookie.net/doraemon/images/f/f6/Wrestling_Killer_Z.jpg/revision/latest/scale-to-width-down/350?cb=20150312091510\u0026path-prefix=en"
   }
 ]

@@ -2,131 +2,57 @@
   {
     "eng_name": "E.S.P Training Box",
     "jp_name": "E.S.P 訓練ボックス Esupa Kunren Bokkusu",
-    "function": "This gadget is used for bringing 3 different psychic abilities out in the user, but it takes years to master them.",
+    "description": "This gadget is used for bringing 3 different psychic abilities out in the user, but it takes years to master them.",
     "appears_in": [
       "wikipedia:Telekinesis",
       "wikipedia:Clairvoyance",
       "wikipedia:Teleportation",
       "Nobita Nobi",
       "wikipedia:Esper (fiction)",
-      "wikipedia:Extrasensory perception",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
+      "wikipedia:Extrasensory perception"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/1/1b/E.S.P._Training_Box.PNG/revision/latest/scale-to-width-down/350?cb=20160213115026\u0026path-prefix=en"
   },
   {
     "eng_name": "Earth Elevator (gadget)",
     "jp_name": "地球エレベーター",
-    "function": "This gadget is used to move through the hole to the Earth.",
+    "description": "This gadget is used to move through the hole to the Earth.",
     "appears_in": [
-      "Earth Elevator",
-      "Special:Categories",
-      "Category:Gadgets"
+      "Earth Elevator"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/2/27/Earth_Elevator_Gadget.jpg/revision/latest?cb=20170627001812\u0026path-prefix=en"
   },
   {
     "eng_name": "Echo Lacquer",
     "jp_name": "こだまラッカー Kodama rakkā",
-    "function": "Just spray the gadget on and it will produce an echo; making it seem like someone's responding even if there is no one there.\nThis gadget can be removed using its remover.",
+    "description": "Just spray the gadget on and it will produce an echo; making it seem like someone's responding even if there is no one there.\nThis gadget can be removed using its remover.",
     "appears_in": [
-      "Go Home, You Unwanted Guest!",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
+      "Go Home, You Unwanted Guest!"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/9/92/Echo_Lacquer.PNG/revision/latest/scale-to-width-down/350?cb=20160225111454\u0026path-prefix=en"
   },
   {
-    "eng_name": "Echo Lacquer Remover",
-    "jp_name": "こだまなおしラッカー Kodama naoshi rakkā",
-    "function": "It's used to remove Echo Lacquer effects.",
-    "appears_in": [
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Remover gadgets"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/1/14/Echo_Lacquer_Remover.PNG/revision/latest/scale-to-width-down/350?cb=20160705132851\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Emotion Energy Cylinder",
-    "jp_name": "感情エネルギーボンベ Kanjō enerugī bonbe",
-    "function": "It's used to absorb anger energy, and converted as energy power so it can charge up electric things like, a plug-in fan, a celing light, an RC car, or anything that runs on battries/plug-in to walls. And it is very useful to calm that person down from being mad. The cylinder cannot absorb anymore anger energy once it's full.",
-    "appears_in": [
-      "Special:Categories",
-      "Category:Article stubs",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/6/60/Emotion_Energy_Cylinder.PNG/revision/latest/scale-to-width-down/350?cb=20160630134000\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Endangered Animal Spray",
-    "jp_name": "国際保護動物スプレー Kokusaihogo Dōbutsu Supurē",
-    "function": "This gadget is used for making an animal who, when sprayed with this gadget, becomes endangered; protected from any torture.",
-    "appears_in": [
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/f/fd/Endangered_Animal_Spray.jpg/revision/latest/scale-to-width-down/350?cb=20190701014317\u0026path-prefix=en"
-  },
-  {
     "eng_name": "Energy Valve",
     "jp_name": "エネルギーバルブ Enerugī Barubu",
-    "function": "This gadget is used to increase the usual flow of energy.",
+    "description": "This gadget is used to increase the usual flow of energy.",
     "appears_in": [
-      "How to Use Nobita's Energy",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Headwear gadgets"
+      "How to Use Nobita's Energy"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/7/7b/Energy_Valve.PNG/revision/latest/scale-to-width-down/350?cb=20160430133217\u0026path-prefix=en"
   },
   {
     "eng_name": "Essence Parts",
     "jp_name": "General InformationFunctionsDetails",
-    "function": "Essence Parts (Japanese: エキス・パーツ Ekisu pātsu) is one of Doraemon's gadgets that first appeared in the anime episode I Humbly Accept Your Good Points.\nThis gadget extracts the essence of someone's body and lets other people have it for a period of time.",
+    "description": "Essence Parts (Japanese: エキス・パーツ Ekisu pātsu) is one of Doraemon's gadgets that first appeared in the anime episode I Humbly Accept Your Good Points.\nThis gadget extracts the essence of someone's body and lets other people have it for a period of time.",
     "appears_in": [
-      "I Humbly Accept Your Good Points",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from 2005 series"
+      "I Humbly Accept Your Good Points"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/c/c3/Essense_of_Parts.PNG/revision/latest/scale-to-width-down/350?cb=20200426123251\u0026path-prefix=en"
   },
   {
-    "eng_name": "Mini Black Hole",
-    "jp_name": "ミニブラックホール Miniburakkuhōru",
-    "function": "This gadget is basically the miniature version of a big bad black hole which usually stay in space. Black holes are such things that even don't let light escape from itself so this gadget has to be handled very carefully! One mistake and slowly you, your house, your city, country, continent and then the entire planet gets sucked in! This gadget is just as scary as a real black hole...\nIf you drink a medicine that breaks the effects of this gadget, the sucked objects however will reappeared in the supposed place that your...",
-    "appears_in": [
-      "Nobita's Black Hole",
-      "The Mystery of Goodie Land",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga",
-      "Category:Evil Gadgets"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/5/57/Mini_Black_Hole.PNG/revision/latest/scale-to-width-down/350?cb=20151003084811\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Passport of Satan",
-    "jp_name": "悪魔のパスポート",
-    "function": "When others are displayed this item, they will become hypnotized and ignore or even endorse all misdeeds the user performs. This doesn't apply to the user, however.",
-    "appears_in": [
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga",
-      "Category:Evil Gadgets"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/4/48/66_%281%29.jpg/revision/latest?cb=20170514122440\u0026path-prefix=en"
-  },
-  {
     "eng_name": "Evolution-Degeneration Beam",
     "jp_name": "進化退化ビーム Shinka Taika Bīmu",
-    "function": "This gadget is used to evolve or devolve/degenerate anything whether living or inanimate objects.",
+    "description": "This gadget is used to evolve or devolve/degenerate anything whether living or inanimate objects.",
     "appears_in": [
       "Nobisuke Nobi",
       "Phoenixia",
@@ -134,35 +60,17 @@
       "Chapter 139: Evolution - Devolution Radiation Source",
       "A Visitor from the Country of the Future/U.S. English dub",
       "Nobita and the Winged Braves",
-      "Nobita's Wannyan Space-Time Odyssey",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
+      "Nobita's Wannyan Space-Time Odyssey"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/5/50/Evolution_Degeneration_Beam.jpg/revision/latest/scale-to-width-down/350?cb=20190701014317\u0026path-prefix=en"
   },
   {
     "eng_name": "Explosion Pepper",
     "jp_name": "ばくはつコショウ Baku hatsu koshō",
-    "function": "When the user uses this pepper and sprinkles at other people's nose, then those people will sneeze (within powerful energy). That energy causes the user to fly but, remember, when people are preparing to sneeze the user must say out the place where the user wants to go, if not the user will fly in the sky non-stop. There is a problem with this gadget, if the people who had been sprinkled by the user covers his/her mouth when he/she sneezes, the power from his/her sneeze will be less and the user can only fly for a short distance.",
+    "description": "When the user uses this pepper and sprinkles at other people's nose, then those people will sneeze (within powerful energy). That energy causes the user to fly but, remember, when people are preparing to sneeze the user must say out the place where the user wants to go, if not the user will fly in the sky non-stop. There is a problem with this gadget, if the people who had been sprinkled by the user covers his/her mouth when he/she sneezes, the power from his/her sneeze will be less and the user can only fly for a short distance.",
     "appears_in": [
-      "The Explosion Pepper",
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga",
-      "Category:Gadgets originating in Doraemon+ (Plus)"
+      "The Explosion Pepper"
     ],
     "image_url": "https://static.wikia.nocookie.net/doraemon/images/c/cc/Explosion_Pepper.PNG/revision/latest/scale-to-width-down/350?cb=20160601005253\u0026path-prefix=en"
-  },
-  {
-    "eng_name": "Expression Controller",
-    "jp_name": "表情 コントローラー Hyōjō Kontorōrā",
-    "function": "It is used to control one's mood or expression. Pressing a certain button will make one laugh, another will make one sad, and so on.",
-    "appears_in": [
-      "Special:Categories",
-      "Category:Gadgets",
-      "Category:Gadgets originated from original manga"
-    ],
-    "image_url": "https://static.wikia.nocookie.net/doraemon/images/8/8b/Expression_Controller_Anime.jpg/revision/latest/scale-to-width-down/350?cb=20151128144921\u0026path-prefix=en"
   }
 ]
