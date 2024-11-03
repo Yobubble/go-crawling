@@ -20,5 +20,5 @@ func main() {
 	}
 
 	// generate json file from the result
-	utils.JsonSerialize(result, "documents", constants.MainExportPath)
+	utils.JsonSerialize(result, "doraemon_gadgets_documents_2", constants.MainExportPath)
 }

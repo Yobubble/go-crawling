@@ -72,7 +72,7 @@ func (d *doraemonGadgetsCrawler) ScapeGadgetListFromLetter(letter rune) ([]entit
 			jpName := e.ChildText(constants.TargetHtmlElementTitleJp)
 			function := e.ChildText(constants.TargetHtmlElementFunction)
 			appearsIn := e.ChildAttrs(constants.TargetHtmlElementAppearsIn, "title")
-			imageUrl := e.ChildAttr(constants.TargetHtmlElementImg, "src")
+			imageUrl := e.ChildAttr(constants.TargetHtmlElementImg, "data-image-key")
 			var filteredAppearsIn []string
 
 			// episodes filtration
@@ -81,6 +81,9 @@ func (d *doraemonGadgetsCrawler) ScapeGadgetListFromLetter(letter rune) ([]entit
 							filteredAppearsIn = append(filteredAppearsIn, episode)
 					}
 			}
+      
+      // replace space with underscore
+      imageUrl = strings.Replace(imageUrl, " ", "_", -1)
 			
 			result = append(result, entities.DoraemonGadget{
 					EngName:    engName,
